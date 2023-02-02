@@ -150,3 +150,6 @@
 /Users/george/Library/CloudStorage/OneDrive-Personal/Self Learning/ONLINE COURSE/DatingApp/API/obj/Debug/net7.0/API.pdb
 /Users/george/Library/CloudStorage/OneDrive-Personal/Self Learning/ONLINE COURSE/DatingApp/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/george/Library/CloudStorage/OneDrive-Personal/Self Learning/ONLINE COURSE/DatingApp/API/obj/Debug/net7.0/ref/API.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Data/UserSeedData.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/AutoMapper.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

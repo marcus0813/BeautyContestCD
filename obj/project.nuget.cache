@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EvB0Rj8JZ4pkLg8kCOL186BHe/2nR+kPFMKonNM3Koj4v452zH8y66qFyrLNuZW1MfHZTY7dkwVacpIzQ5hU2A==",
+  "dgSpecHash": "Kz85JEHKItT/hZfXaHLJJMMfw7EveKmYEJSaNLNrwtE2h9ICTjh5J8qIbsaThgOqsPGdcEjAfhPVJxkMrG1Iaw==",
   "success": true,
   "projectFilePath": "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/george/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/george/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.2/microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
-    "/Users/george/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/george/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.data.sqlite.core/7.0.2/microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.entityframeworkcore/7.0.2/microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.2/microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
