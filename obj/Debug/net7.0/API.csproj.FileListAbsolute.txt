@@ -153,3 +153,9 @@
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Data/UserSeedData.json
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/AutoMapper.dll
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Azure.Core.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Azure.Storage.Common.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/System.IO.Hashing.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/System.Memory.Data.dll
