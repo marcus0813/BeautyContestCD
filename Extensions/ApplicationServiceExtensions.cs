@@ -22,6 +22,7 @@ namespace API.Extensions
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.Configure<BlobStorageSettings>(configuration.GetSection("BlobStorageSettings"));
             services.AddScoped<IPhotoService, PhotoService>();
+            services.AddScoped<LogUserActivity>();
 
             return services;
         }

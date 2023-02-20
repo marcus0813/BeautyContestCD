@@ -1,6 +1,7 @@
 using API.DTOs;
 using API.Entities;
 using API.Extensions;
+using API.Helpers;
 using API.Interface;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
@@ -24,9 +25,19 @@ public class UsersController : BaseApiController
 
     [HttpGet]
     [Route("GetUsers")]
-    public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
+    public async Task<ActionResult<PagedList<AppUser>>> GetUsers([FromQuery] UserParams userParams)
     {
-        var users = await _userRepository.GetMembersAsync();
+        var currentUser = await _userRepository.GetUserByUsernameAsync(User.GetUsername());
+        userParams.CurrentUsername = currentUser.UserName;
+
+        if (string.IsNullOrEmpty(userParams.Gender))
+        {
+            userParams.Gender = currentUser.Gender == "male" ? "female" : "male";
+        }
+
+        var users = await _userRepository.GetMembersAsync(userParams);
+
+        Response.AddPaginationHeader(new PaginationHeader(users.CurrentPage, users.PageSize, users.TotalCount, users.TotalPage));
 
         return Ok(users);
     }
