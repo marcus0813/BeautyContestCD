@@ -17,12 +17,19 @@ namespace API.Extensions
             });
 
             services.AddCors();
-            services.AddScoped<ITokenService, TokenService>();
-            services.AddScoped<IUserRepository, UserRepository>();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.Configure<BlobStorageSettings>(configuration.GetSection("BlobStorageSettings"));
-            services.AddScoped<IPhotoService, PhotoService>();
             services.AddScoped<LogUserActivity>();
+
+            #region 'Service'
+            services.AddScoped<IPhotoService, PhotoService>();
+            services.AddScoped<ITokenService, TokenService>();
+            #endregion
+
+            #region 'Repository'
+            services.AddScoped<ILikesRepository, LikesRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            #endregion
 
             return services;
         }

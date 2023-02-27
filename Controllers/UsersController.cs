@@ -37,7 +37,7 @@ public class UsersController : BaseApiController
 
         var users = await _userRepository.GetMembersAsync(userParams);
 
-        Response.AddPaginationHeader(new PaginationHeader(users.CurrentPage, users.PageSize, users.TotalCount, users.TotalPage));
+        Response.AddPaginationHeader(new PaginationHeader(users.CurrentPage, users.PageSize, users.TotalCount, users.TotalPages));
 
         return Ok(users);
     }
