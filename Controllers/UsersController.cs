@@ -23,6 +23,7 @@ public class UsersController : BaseApiController
         _userRepository = userRepository;
     }
 
+    [Authorize(Roles = "Admin")]
     [HttpGet]
     [Route("GetUsers")]
     public async Task<ActionResult<PagedList<AppUser>>> GetUsers([FromQuery] UserParams userParams)
@@ -42,6 +43,7 @@ public class UsersController : BaseApiController
         return Ok(users);
     }
 
+    [Authorize(Roles = "Member")]
     [HttpGet("{username}")]
     public async Task<ActionResult<MemberDto>> GetUser(string username)
     {
