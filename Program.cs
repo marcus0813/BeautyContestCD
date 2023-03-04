@@ -29,7 +29,7 @@ app.UseSwaggerUI();
 app.UseHttpsRedirection();
 app.UseCors(builder => builder.AllowAnyHeader()
         .AllowAnyMethod()
-        .WithOrigins("https://localhost:4200", "https://localhost:4200/*"));
+        .WithOrigins("https://localhost:4200", "https://localhost:4200/*", "https://datingappgui2023.azurewebsites.net/*"));
 
 app.UseAuthentication();
 app.UseAuthorization();
