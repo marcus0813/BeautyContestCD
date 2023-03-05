@@ -23,7 +23,7 @@ public class UsersController : BaseApiController
         _userRepository = userRepository;
     }
 
-    [Authorize(Roles = "Admin")]
+    // [Authorize(Roles = "Admin")]
     [HttpGet]
     [Route("GetUsers")]
     public async Task<ActionResult<PagedList<AppUser>>> GetUsers([FromQuery] UserParams userParams)
