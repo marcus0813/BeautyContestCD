@@ -90,3 +90,9 @@
 /Volumes/Data/Project/Learning/DatingApp/API/obj/Release/net7.0/API.pdb
 /Volumes/Data/Project/Learning/DatingApp/API/obj/Release/net7.0/API.genruntimeconfig.cache
 /Volumes/Data/Project/Learning/DatingApp/API/obj/Release/net7.0/ref/API.dll
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/web.config
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/API.deps.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/API.runtimeconfig.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/appsettings.Development.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/appsettings.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/Data/UserSeedData.json

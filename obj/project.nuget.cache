@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uQuLQIg2YiVVAYuahMWU7XRGiBA5HDf+PFH0uDInCkJ/sOf7/8tVyAF/qxrKsg/D5GHBtqSlUQUH6ffdegW08g==",
+  "dgSpecHash": "2L6snzuj2WnkIHCpprcHJYCNNZSTSyT2d+xf1KcU5EA++WFQoSFSs3acO0EdWnDDRtBWbIzi4HyS5rRzbadUGg==",
   "success": true,
   "projectFilePath": "/Volumes/Data/Project/Learning/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "/Users/george/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/george/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
