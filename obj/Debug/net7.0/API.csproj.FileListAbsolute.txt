@@ -166,3 +166,15 @@
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/appsettings.Development.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/appsettings.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/Data/UserSeedData.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/web.config
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/web.config
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/API.deps.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/API.runtimeconfig.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/API.deps.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/API.runtimeconfig.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/appsettings.Development.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/appsettings.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/Data/UserSeedData.json
