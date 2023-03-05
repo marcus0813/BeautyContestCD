@@ -178,3 +178,4 @@
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/appsettings.Development.json
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/appsettings.json
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/publish/publish/Data/UserSeedData.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Debug/net7.0/datingapp.db

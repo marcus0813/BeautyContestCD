@@ -1,3 +1,4 @@
+/Volumes/Data/Project/Learning/DatingApp/API/publish/datingapp.db
 /Volumes/Data/Project/Learning/DatingApp/API/publish/API
 /Volumes/Data/Project/Learning/DatingApp/API/publish/appsettings.Development.json
 /Volumes/Data/Project/Learning/DatingApp/API/publish/appsettings.json
