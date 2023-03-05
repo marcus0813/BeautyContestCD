@@ -57,6 +57,8 @@ namespace API.Controllers
         [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
+            return Unauthorized("debug 1");
+
             var user = await _userManager?.Users
             .Include(p => p.Photos)
             .SingleOrDefaultAsync(x =>
