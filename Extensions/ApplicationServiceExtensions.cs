@@ -32,6 +32,8 @@ namespace API.Extensions
             services.AddScoped<IUserRepository, UserRepository>();
             #endregion
 
+            services.AddSignalR();
+
             return services;
         }
     }
