@@ -22,4 +22,17 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.26.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="datingapp.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="datingapp.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="datingapp.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>

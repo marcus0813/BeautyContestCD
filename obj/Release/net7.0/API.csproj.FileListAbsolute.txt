@@ -96,3 +96,10 @@
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/appsettings.Development.json
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/appsettings.json
 /Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/Data/UserSeedData.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/web.config
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/API.deps.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/API.runtimeconfig.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/appsettings.Development.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/appsettings.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/publish/publish/Data/UserSeedData.json
+/Volumes/Data/Project/Learning/DatingApp/API/bin/Release/net7.0/datingapp.db

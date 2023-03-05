@@ -15,7 +15,6 @@
           "Microsoft.AspNetCore.OpenApi": "7.0.1",
           "Microsoft.EntityFrameworkCore.Design": "7.0.3",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.3",
-          "Microsoft.Extensions.Configuration": "7.0.0",
           "Swashbuckle.AspNetCore": "6.4.0",
           "System.IdentityModel.Tokens.Jwt": "6.26.0"
         },
@@ -87,14 +86,7 @@
           }
         }
       },
-      "Humanizer.Core/2.14.1": {
-        "runtime": {
-          "lib/net6.0/Humanizer.dll": {
-            "assemblyVersion": "2.14.0.0",
-            "fileVersion": "2.14.1.48190"
-          }
-        }
-      },
+      "Humanizer.Core/2.14.1": {},
       "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.3": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
@@ -198,12 +190,6 @@
           "Microsoft.EntityFrameworkCore.Relational": "7.0.3",
           "Microsoft.Extensions.DependencyModel": "7.0.0",
           "Mono.TextTemplating": "2.2.1"
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "7.0.3.0",
-            "fileVersion": "7.0.323.6302"
-          }
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/7.0.3": {
@@ -249,12 +235,6 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
           "Microsoft.Extensions.Options": "7.0.1",
-          "Microsoft.Extensions.Primitives": "7.0.0"
-        }
-      },
-      "Microsoft.Extensions.Configuration/7.0.0": {
-        "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
           "Microsoft.Extensions.Primitives": "7.0.0"
         }
       },
@@ -412,12 +392,6 @@
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Mono.TextTemplating.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.1.1"
-          }
         }
       },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.4": {
@@ -611,14 +585,7 @@
           }
         }
       },
-      "System.CodeDom/4.4.0": {
-        "runtime": {
-          "lib/netstandard2.0/System.CodeDom.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.6.25519.3"
-          }
-        }
-      },
+      "System.CodeDom/4.4.0": {},
       "System.Diagnostics.DiagnosticSource/4.6.0": {},
       "System.IdentityModel.Tokens.Jwt/6.26.0": {
         "dependencies": {
@@ -850,13 +817,6 @@
       "sha512": "sha512-xpidBs2KCE2gw1JrD0quHE72kvCaI3xFql5/Peb2GRtUuZX+dYPoK/NTdVMiM67Svym0M0Df9A3xyU0FbMQhHw==",
       "path": "microsoft.extensions.caching.memory/7.0.0",
       "hashPath": "microsoft.extensions.caching.memory.7.0.0.nupkg.sha512"
-    },
-    "Microsoft.Extensions.Configuration/7.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-tldQUBWt/xeH2K7/hMPPo5g8zuLc3Ro9I5d4o/XrxvxOCA2EZBtW7bCHHTc49fcBtvB8tLAb/Qsmfrq+2SJ4vA==",
-      "path": "microsoft.extensions.configuration/7.0.0",
-      "hashPath": "microsoft.extensions.configuration.7.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
       "type": "package",
