@@ -6,7 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
 using Stripe.Checkout;
-
+using API.Extensions;
+    
 namespace API.Controllers;
 
 [ApiController]
@@ -29,7 +30,7 @@ public class PaymentController : BaseApiController
     public async Task<ActionResult> CheckoutOrder([FromBody] Vote product, [FromServices] IServiceProvider sp)
     {
         var referer = Request.Headers.Referer;
-        s_wasmClientURL = $"{ referer[0] }members/{product.Title}";
+        s_wasmClientURL = referer[0];
 
         // Build the URL to which the customer will be redirected after paying.
         var server = sp.GetRequiredService<IServer>();
@@ -73,7 +74,7 @@ public class PaymentController : BaseApiController
         var options = new SessionCreateOptions
         {
             // Stripe calls the URLs below when certain checkout events happen such as success and failure.
-            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}&name=product.Title", // Customer paid.
+            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}"+$"&name={product.Title}", // Customer paid.
             CancelUrl = s_wasmClientURL,  // Checkout cancelled.
             PaymentMethodTypes = new List<string> // Only card available in test mode?
             {
@@ -115,29 +116,25 @@ public class PaymentController : BaseApiController
     [HttpGet("success")]
     // Automatic query parameter handling from ASP.NET.
     // Example URL: https://localhost:7051/checkout/success?sessionId=si_123123123123
-    public ActionResult CheckoutSuccess(string sessionId, string name)
+    public async Task<ActionResult> CheckoutSuccess(string sessionId,string name)
     {
         var sessionService = new SessionService();
         var session = sessionService.Get(sessionId);
 
         // Here you can save order and customer details to your database.
-        int total = Convert.ToInt32(session.AmountTotal.Value/100);
+        int total = Convert.ToInt32(session.AmountTotal.Value/100);     
         var customerEmail = session.CustomerDetails.Email;
 
         //declare changes in user
 
-        AppUser user = new AppUser();
-        AppUser userUpdate = new AppUser()
-        {
-            Vote = user.Vote + total
-        };
-
 
         //call api to store voting
-        _userRepository.Update(userUpdate);
+        AppUser user = await _userRepository.GetUserByUsernameAsync(name);
+        user.Vote += total;
 
-        //update ranking
-        _userRepository.UpdateRanking();
+        _userRepository.Update(user);
+
+        await _userRepository.SaveAllAsync();
 
         return Redirect(s_wasmClientURL);
     }
