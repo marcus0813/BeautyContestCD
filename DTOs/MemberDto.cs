@@ -16,5 +16,7 @@ namespace API.DTOs
         public string City { get; set; }
         public string Country { get; set; }
         public List<PhotoDto> Photos { get; set; }
+        public int ranking { get; set; }
+        public int vote { get; set; }
     }
 }
