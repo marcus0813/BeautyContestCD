@@ -31,12 +31,13 @@ namespace API.Data
             var query = _context.Users.AsQueryable();
 
             query = query.Where(u => u.UserName != userParams.CurrentUsername);
-            query = query.Where(u => u.Gender == userParams.Gender);
+            query = query.Where(u => u.UserName != "admin");
+            // query = query.Where(u => u.Gender == userParams.Gender);
 
             var minDob = DateOnly.FromDateTime(DateTime.Today.AddYears(-userParams.MaxAge - 1));
             var maxDob = DateOnly.FromDateTime(DateTime.Today.AddYears(-userParams.MinAge));
 
-            query = query.Where(u => u.DateOfBirth >= minDob && u.DateOfBirth <= maxDob);
+            // query = query.Where(u => u.DateOfBirth >= minDob && u.DateOfBirth <= maxDob);
 
             query = userParams.OrderBy switch
             {
@@ -82,16 +83,16 @@ namespace API.Data
 
         public async void UpdateRanking()
         {
-                var rowsToUpdate = await _context.Users
-                    .Where(row => _context.Users.Count(r => r.Vote > row.Vote) > 0)
-                    .ToListAsync();
+            var rowsToUpdate = await _context.Users
+                .Where(row => _context.Users.Count(r => r.Vote > row.Vote) > 0)
+                .ToListAsync();
 
-                foreach (var row in rowsToUpdate)
-                {
-                    row.Ranking = await _context.Users.CountAsync(r => r.Vote > row.Vote) + 1;
-                }
+            foreach (var row in rowsToUpdate)
+            {
+                row.Ranking = await _context.Users.CountAsync(r => r.Vote > row.Vote) + 1;
+            }
 
-           
+
         }
     }
 }
