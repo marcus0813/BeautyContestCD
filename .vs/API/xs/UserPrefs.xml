@@ -1,52 +1,52 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/20230124141125_InitialCreate.cs">
+﻿<Properties StartupConfiguration="{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Projects/Freelance/BeautyContest/BeautyContestAPI/Controllers/PaymentController.cs" relfile="Controllers/PaymentController.cs" line="32" column="9" />
+      <Breakpoint file="/Volumes/Projects/Freelance/BeautyContest/BeautyContestAPI/Controllers/PaymentController.cs" relfile="Controllers/PaymentController.cs" line="120" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Volumes/Application/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
       <File FileName="Middleware/ExceptionMiddleware.cs" Line="26" Column="16" IsPinned="True" />
-      <File FileName="CheckoutOrderResponse.cs" Line="4" Column="17" IsPinned="True" />
-      <File FileName="Controllers/PaymentController.cs" Line="131" Column="36" IsPinned="True" />
-      <File FileName="Entities/Vote.cs" />
-      <File FileName="Entities/AppUser.cs" />
-      <File FileName="Entities/Message.cs" />
-      <File FileName="appsettings.json" />
-      <File FileName="Program.cs" />
-      <File FileName="Controllers/AccountController.cs" />
-      <File FileName="Controllers/WeatherForecastController.cs" />
-      <File FileName="Controllers/MessagesController.cs" />
-      <File FileName="Controllers/BuggyController.cs" />
-      <File FileName="Controllers/AdminController.cs" />
-      <File FileName="Data/UserRepository.cs" />
-      <File FileName="Data/MessageRepository.cs" />
-      <File FileName="Data/UserSeedData.json" />
-      <File FileName="Data/DataContext.cs" />
-      <File FileName="Data/LikesRepository.cs" />
-      <File FileName="Data/Seed.cs" />
-      <File FileName="DTOs/UserDto.cs" />
-      <File FileName="DTOs/MemberDto.cs" />
-      <File FileName="Interface/IUserRepository.cs" />
-      <File FileName="datingapp.db" />
-      <File FileName="DTOs/RegisterDto.cs" />
-      <File FileName="Entities/AppUserRole.cs" />
-      <File FileName="Entities/AppRole.cs" />
-      <File FileName="Data/Migrations/DataContextModelSnapshot.cs" />
-      <File FileName="Data/Migrations/20230301225928_IdentityAdded.cs" />
-      <File FileName="Properties/launchSettings.json" />
-      <File FileName="Data/Migrations/20230124141125_InitialCreate.cs" Line="25" Column="10" />
-      <File FileName="Data/Migrations/20230125074015_UserPasswordAdded.cs" />
+      <File FileName="CheckoutOrderResponse.cs" Line="6" Column="22" IsPinned="True" />
+      <File FileName="Controllers/PaymentController.cs" Line="138" Column="1" IsPinned="True" />
+      <File FileName="appsettings.json" Line="21" Column="2" />
+      <File FileName="Controllers/UsersController.cs" Line="39" Column="50" />
+      <File FileName="Helpers/UserParams.cs" Line="3" Column="30" />
+      <File FileName="Helpers/PaginationParams.cs" Line="3" Column="17" />
+      <File FileName="Helpers/PaginationHeader.cs" Line="3" Column="17" />
+      <File FileName="Controllers/MessagesController.cs" Line="64" Column="1" />
+      <File FileName="Extensions/HttpExtensions.cs" Line="13" Column="67" />
+      <File FileName="Controllers/LikesController.cs" Line="54" Column="45" />
+      <File FileName="Data/UserRepository.cs" Line="60" Column="10" />
+      <File FileName="Data/UserSeedData.json" Line="1" Column="1" />
+      <File FileName="DTOs/UserDto.cs" Line="1" Column="1" />
+      <File FileName="DTOs/MemberDto.cs" Line="22" Column="2" />
+      <File FileName="DTOs/MemberUpdateDto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="API" expanded="True">
-            <Node name="API" selected="True" />
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="DTOs" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
