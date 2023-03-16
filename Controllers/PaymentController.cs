@@ -29,8 +29,7 @@ public class PaymentController : BaseApiController
     public async Task<ActionResult> CheckoutOrder([FromBody] Vote product, [FromServices] IServiceProvider sp)
     {
         var referer = Request.Headers.Referer;
-        //s_wasmClientURL = referer[0];
-        s_wasmClientURL = "https://localhost:4200/members";
+        s_wasmClientURL = $"{ referer[0] }members/{product.Title}";
 
         // Build the URL to which the customer will be redirected after paying.
         var server = sp.GetRequiredService<IServer>();
@@ -74,13 +73,13 @@ public class PaymentController : BaseApiController
         var options = new SessionCreateOptions
         {
             // Stripe calls the URLs below when certain checkout events happen such as success and failure.
-            SuccessUrl = $"{thisApiUrl}/api/checkout/success?sessionId=" + "{CHECKOUT_SESSION_ID}", // Customer paid.
+            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}&name=product.Title", // Customer paid.
             CancelUrl = s_wasmClientURL,  // Checkout cancelled.
             PaymentMethodTypes = new List<string> // Only card available in test mode?
             {
                 "card",
-                //"fpx",
-                "alipay",
+                "fpx",
+                //"alipay",
                 "grabpay",
                 //"apple_pay"
             },
