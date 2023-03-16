@@ -79,5 +79,19 @@ namespace API.Data
         {
             _context.Entry(user).State = EntityState.Modified;
         }
+
+        public async void UpdateRanking()
+        {
+                var rowsToUpdate = await _context.Users
+                    .Where(row => _context.Users.Count(r => r.Vote > row.Vote) > 0)
+                    .ToListAsync();
+
+                foreach (var row in rowsToUpdate)
+                {
+                    row.Ranking = await _context.Users.CountAsync(r => r.Vote > row.Vote) + 1;
+                }
+
+           
+        }
     }
 }

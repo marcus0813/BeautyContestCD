@@ -1,20 +1,52 @@
-﻿<Properties StartupConfiguration="{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}|Default">
-  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Volumes/Non-System Program/Browser/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/20230124141125_InitialCreate.cs">
+    <Files>
+      <File FileName="Middleware/ExceptionMiddleware.cs" Line="26" Column="16" IsPinned="True" />
+      <File FileName="CheckoutOrderResponse.cs" Line="4" Column="17" IsPinned="True" />
+      <File FileName="Controllers/PaymentController.cs" Line="131" Column="36" IsPinned="True" />
+      <File FileName="Entities/Vote.cs" />
+      <File FileName="Entities/AppUser.cs" />
+      <File FileName="Entities/Message.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/AccountController.cs" />
+      <File FileName="Controllers/WeatherForecastController.cs" />
+      <File FileName="Controllers/MessagesController.cs" />
+      <File FileName="Controllers/BuggyController.cs" />
+      <File FileName="Controllers/AdminController.cs" />
+      <File FileName="Data/UserRepository.cs" />
+      <File FileName="Data/MessageRepository.cs" />
+      <File FileName="Data/UserSeedData.json" />
+      <File FileName="Data/DataContext.cs" />
+      <File FileName="Data/LikesRepository.cs" />
+      <File FileName="Data/Seed.cs" />
+      <File FileName="DTOs/UserDto.cs" />
+      <File FileName="DTOs/MemberDto.cs" />
+      <File FileName="Interface/IUserRepository.cs" />
+      <File FileName="datingapp.db" />
+      <File FileName="DTOs/RegisterDto.cs" />
+      <File FileName="Entities/AppUserRole.cs" />
+      <File FileName="Entities/AppRole.cs" />
+      <File FileName="Data/Migrations/DataContextModelSnapshot.cs" />
+      <File FileName="Data/Migrations/20230301225928_IdentityAdded.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Data/Migrations/20230124141125_InitialCreate.cs" Line="25" Column="10" />
+      <File FileName="Data/Migrations/20230125074015_UserPasswordAdded.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="API" expanded="True">
-            <Node name="API" expanded="True" />
+            <Node name="API" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
