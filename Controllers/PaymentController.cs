@@ -92,9 +92,9 @@ public class PaymentController : BaseApiController
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
-                            Name = product.Title,
-                            Description = product.Description,
-                            Images = new List<string> { product.ImageUrl }
+                            Name = product.Description,
+                            Description = "You have voted " + product.Price / 100 + " to " + product.Description,
+                            // Images = new List<string> { product.ImageUrl }
                         },
                     },
                     Quantity = 1,
