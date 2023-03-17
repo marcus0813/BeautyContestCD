@@ -1,13 +1,13 @@
 using API.DTOs;
 using API.Entities;
+using API.Extensions;
 using API.Interface;
 using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
+using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
-using API.Extensions;
-    
+
 namespace API.Controllers;
 
 [ApiController]
@@ -37,7 +37,7 @@ public class PaymentController : BaseApiController
 
         var serverAddressesFeature = server.Features.Get<IServerAddressesFeature>();
 
-        string? thisApiUrl = null;
+        string thisApiUrl = null;
 
         if (serverAddressesFeature is not null)
         {
@@ -48,7 +48,7 @@ public class PaymentController : BaseApiController
         {
             var sessionId = await CheckOut(product, thisApiUrl);
             var pubKey = _configuration["Stripe:PubKey"];
-            
+
             var checkoutOrderResponse = new CheckoutOrderResponse()
             {
                 SessionId = sessionId,
@@ -74,7 +74,7 @@ public class PaymentController : BaseApiController
         var options = new SessionCreateOptions
         {
             // Stripe calls the URLs below when certain checkout events happen such as success and failure.
-            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}"+$"&name={product.Title}", // Customer paid.
+            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}" + $"&name={product.Title}", // Customer paid.
             CancelUrl = s_wasmClientURL,  // Checkout cancelled.
             PaymentMethodTypes = new List<string> // Only card available in test mode?
             {
@@ -84,7 +84,7 @@ public class PaymentController : BaseApiController
                 "grabpay",
                 //"apple_pay"
             },
-            
+
             LineItems = new List<SessionLineItemOptions>
             {
                 new()
@@ -103,7 +103,7 @@ public class PaymentController : BaseApiController
                     Quantity = 1,
                 },
             },
-            
+
             Mode = "payment" // One-time payment. Stripe supports recurring 'subscription' payments.
         };
 
@@ -116,13 +116,13 @@ public class PaymentController : BaseApiController
     [HttpGet("success")]
     // Automatic query parameter handling from ASP.NET.
     // Example URL: https://localhost:7051/checkout/success?sessionId=si_123123123123
-    public async Task<ActionResult> CheckoutSuccess(string sessionId,string name)
+    public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
         var sessionService = new SessionService();
         var session = sessionService.Get(sessionId);
 
         // Here you can save order and customer details to your database.
-        int total = Convert.ToInt32(session.AmountTotal.Value/100);     
+        int total = Convert.ToInt32(session.AmountTotal.Value / 100);
         var customerEmail = session.CustomerDetails.Email;
 
         //declare changes in user
