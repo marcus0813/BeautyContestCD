@@ -1,8 +1,5 @@
-using API.DTOs;
 using API.Entities;
-using API.Extensions;
 using API.Interface;
-using AutoMapper;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
 using Microsoft.AspNetCore.Mvc;
@@ -95,9 +92,9 @@ public class PaymentController : BaseApiController
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
-                            Name = product.Title,
-                            Description = product.Description,
-                            Images = new List<string> { product.ImageUrl }
+                            Name = product.Description,
+                            Description = "You have voted " + product.Price / 100 + " to " + product.Description,
+                            // Images = new List<string> { product.ImageUrl }
                         },
                     },
                     Quantity = 1,
