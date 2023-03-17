@@ -3534,25 +3534,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/george/.nuget/packages/": {}
+    "C:\\Users\\george.lu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/API.csproj",
+      "projectUniqueName": "D:\\workspace\\Misc\\Personal Project\\BeautyContest\\BeautyContestAPI\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/API.csproj",
-      "packagesPath": "/Users/george/.nuget/packages/",
-      "outputPath": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/obj/",
+      "projectPath": "D:\\workspace\\Misc\\Personal Project\\BeautyContest\\BeautyContestAPI\\API.csproj",
+      "packagesPath": "C:\\Users\\george.lu\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\Misc\\Personal Project\\BeautyContest\\BeautyContestAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/george/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\george.lu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3643,7 +3650,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
