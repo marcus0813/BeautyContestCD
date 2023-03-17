@@ -2,6 +2,7 @@ using API.Data;
 using API.Helpers;
 using API.Interface;
 using API.Services;
+using API.SignalR;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Extensions
@@ -24,15 +25,15 @@ namespace API.Extensions
             #region 'Service'
             services.AddScoped<IPhotoService, PhotoService>();
             services.AddScoped<ITokenService, TokenService>();
-            #endregion
-
-            #region 'Repository'
-            services.AddScoped<IMessageRepository, MessageRepository>();
-            services.AddScoped<ILikesRepository, LikesRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
             #endregion
 
+            #region 'Repository'
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            #endregion
+
             services.AddSignalR();
+            services.AddSingleton<PresenceTracker>();
 
             return services;
         }
