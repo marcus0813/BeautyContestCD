@@ -9,6 +9,6 @@ namespace API.DTOs
         public string Country { get; set; }
         public int Ranking { get; set; }
         public int Vote { get; set; }
-
+        public string KnownAs {get; set; }
     }
 }
