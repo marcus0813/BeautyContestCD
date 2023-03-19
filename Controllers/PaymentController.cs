@@ -89,18 +89,19 @@ public class PaymentController : BaseApiController
                 "grabpay",
                 //"apple_pay"
             },
-
             LineItems = new List<SessionLineItemOptions>
             {
+                
                 new()
                 {
+                    
                     PriceData = new SessionLineItemPriceDataOptions
                     {
                         
                         UnitAmount = product.Price,
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
-                        {
+                        { 
                             Name = product.Description,
                             Description = description
                             // Images = new List<string> { product.ImageUrl }
@@ -130,60 +131,83 @@ public class PaymentController : BaseApiController
     [HttpGet("success")]
     // Automatic query parameter handling from ASP.NET.
     // Example URL: https://localhost:7051/checkout/success?sessionId=si_123123123123
-    public ActionResult CheckoutSuccess(string sessionId, string name)
+    public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
+        var sessionService = new SessionService();
+        var session = sessionService.Get(sessionId);
+
+        // Here you can save order and customer details to your database.
+        int total = Convert.ToInt32(session.AmountTotal / 100);
+        // var customerEmail = session.CustomerDetails.Email;
+        
+        //call api to store voting
+        AppUser user = await _userRepository.GetUserByUsernameAsync(name);
+
+        user.Vote += total;
+
+        _userRepository.Update(user);
+
+        await _userRepository.SaveAllAsync();
+
+        string msg = $"You have voted {total} to {name}";
+
+        _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
+        session.PaymentIntentId,
+        session.PaymentMethodTypes, 
+        msg);
+        
         return Redirect(s_wasmClientURL);
     }
 
-    [HttpPost("webhook")]
-    public async Task<ActionResult> WebhookHandler() 
-    {
-        var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
-        try
-        {
-            var stripeEvent = EventUtility.ConstructEvent(json,
-                Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
+    // [HttpPost("webhook")]
+    // public async Task<ActionResult> WebhookHandler() 
+    // {
+    //     var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
+    //     try
+    //     {
+    //         var stripeEvent = EventUtility.ConstructEvent(json,
+    //             Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
 
-            // Handle the event
-            if(stripeEvent.Type == Events.ChargeSucceeded)
-            {
-                var session = stripeEvent.Data.Object as Charge;
+    //         // Handle the event
+    //         if(stripeEvent.Type == Events.ChargeSucceeded)
+    //         {
+    //             var session = stripeEvent.Data.Object as Charge;
 
-                if (session.Status == "succeeded")
-                {
-                    // Here you can save order and customer details to your database.
-                    int total = Convert.ToInt32(session.Amount / 100);
-                    // var customerEmail = session.CustomerDetails.Email;
+    //             if (session.Status == "succeeded")
+    //             {
+    //                 // Here you can save order and customer details to your database.
+    //                 int total = Convert.ToInt32(session.Amount / 100);
+    //                 // var customerEmail = session.CustomerDetails.Email;
 
-                    //call api to store voting
-                    AppUser user = await _userRepository.GetUserByUsernameAsync(session.Metadata["Username"]);
+    //                 //call api to store voting
+    //                 AppUser user = await _userRepository.GetUserByUsernameAsync(session.Metadata["Username"]);
 
-                    user.Vote += total;
+    //                 user.Vote += total;
 
-                    _userRepository.Update(user);
+    //                 _userRepository.Update(user);
 
-                    await _userRepository.SaveAllAsync();
+    //                 await _userRepository.SaveAllAsync();
 
-                    _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
-                    session.PaymentIntentId,
-                    session.PaymentMethodDetails.Type,
-                    session.Metadata["Description"]
-                    );
-                }
+    //                 _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
+    //                 session.PaymentIntentId,
+    //                 session.PaymentMethodDetails.Type,
+    //                 session.Metadata["Description"]
+    //                 );
+    //             }
 
-            } 
-            // ... handle other event types
-            else
-            {
+    //         } 
+    //         // ... handle other event types
+    //         else
+    //         {
 
-            }
+    //         }
 
-            return Ok();
-        }
-        catch
-        {
-            return BadRequest();
-        }
-    }
+    //         return Ok();
+    //     }
+    //     catch
+    //     {
+    //         return BadRequest();
+    //     }
+    // }
 
 }
