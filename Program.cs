@@ -5,6 +5,7 @@ using API.Middleware;
 using API.SignalR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +17,19 @@ builder.Services.AddIdentityServices(builder.Configuration);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var logger = new LoggerConfiguration()
+.MinimumLevel.Debug()
+            .MinimumLevel.Fatal()
+           .WriteTo.File("./Logs/TransactionLogs.json", rollingInterval: RollingInterval.Day,
+                           outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj} {Properties} {NewLine}")
+            // .Filter.ByIncludingOnly(evt => evt.Properties.ContainsKey("PaymentIntentId"))
+           .CreateLogger();
+
+builder.Host.UseSerilog(logger);
+
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 app.UseMiddleware<ExceptionMiddleware>();
@@ -53,8 +66,10 @@ try
 }
 catch (System.Exception ex)
 {
-    var logger = services.GetService<ILogger<Program>>();
-    logger.LogError(ex, "An error occurred during migration");
+    // var logger = services.GetService<ILogger<Program>>();
+    // logger.LogError(ex, "An error occurred during migration");
 }
+
+app.UseSerilogRequestLogging(); // Add Serilog middleware for logging HTTP requests
 
 app.Run();
