@@ -2,6 +2,8 @@ using API.DTOs;
 using API.Entities;
 using API.Extensions;
 using AutoMapper;
+using BeautyContestAPI.DTOs;
+using BeautyContestAPI.Entities;
 
 namespace API.Helpers
 {
@@ -17,6 +19,7 @@ namespace API.Helpers
             CreateMap<MemberUpdateDto, AppUser>();
             CreateMap<Photo, PhotoDto>();
             CreateMap<RegisterDto, AppUser>();
+            CreateMap<AuditDto, Audit>();
             CreateMap<Message, MessageDto>()
                 .ForMember(d => d.SenderPhotoUrl,
                 o => o.MapFrom(s => s.Sender.Photos.FirstOrDefault(x => x.IsMain).Url))

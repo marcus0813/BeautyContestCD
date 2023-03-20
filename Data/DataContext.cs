@@ -1,4 +1,5 @@
 using API.Entities;
+using BeautyContestAPI.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +17,11 @@ namespace API.Data
         public DbSet<Message> Messages { get; set; }
         public DbSet<Group> Groups { get; set; }
         public DbSet<Connection> Connections { get; set; }
+<<<<<<< HEAD
         public DbSet<AuditStripeSession> AuditStripeSessions { get; set; }
+=======
+        public DbSet<Audit> Audits { get; set; }
+>>>>>>> 4e4dafe (Audit Repository)
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -59,6 +64,11 @@ namespace API.Data
             .WithMany(m => m.MessagesSent)
             .OnDelete(DeleteBehavior.Restrict);
 
+            builder.Entity<Audit>(builder =>
+            {
+                builder.HasNoKey();
+                builder.ToTable("Audit");
+            });
         }
     }
 }

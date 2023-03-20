@@ -18,10 +18,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var logger = new LoggerConfiguration()
+.MinimumLevel.Debug()
             .MinimumLevel.Fatal()
            .WriteTo.File("./Logs/TransactionLogs.json", rollingInterval: RollingInterval.Day,
                            outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level:u3}] {Message:lj} {Properties} {NewLine}")
-            // .Filter.ByIncludingOnly(evt => evt.Properties.ContainsKey("PaymentIntentId"))
+           // .Filter.ByIncludingOnly(evt => evt.Properties.ContainsKey("PaymentIntentId"))
            .CreateLogger();
 
 builder.Host.UseSerilog(logger);
@@ -43,7 +44,7 @@ app.UseHttpsRedirection();
 app.UseCors(builder => builder.AllowAnyHeader()
         .AllowAnyMethod()
         .AllowCredentials()
-        .WithOrigins("https://localhost:4200", "https://localhost:4200/*", "https://beautycontestgui.azurewebsites.net", "https://beautycontestgui.azurewebsites.net/*")
+        .WithOrigins("https://localhost:4200", "https://localhost:4200/*", "https://beautyvotingcontestsystem.azurewebsites.net", "https://beautyvotingcontestsystem.azurewebsites.net/*")
         );
 
 app.UseAuthentication();
@@ -59,20 +60,12 @@ app.MapFallbackToController("Index", "Fallback");
 using var scope = app.Services.CreateScope();
 var services = scope.ServiceProvider;
 
-try
-{
-    var context = services.GetRequiredService<DataContext>();
-    var userManager = services.GetRequiredService<UserManager<AppUser>>();
-    var roleManager = services.GetRequiredService<RoleManager<AppRole>>();
-    await context.Database.MigrateAsync();
-    await Seed.SeedUsers(userManager, roleManager);
-}
-catch (System.Exception ex)
-{
-    // var logger = services.GetService<ILogger<Program>>();
-    // logger.LogError(ex, "An error occurred during migration");
-}
+var context = services.GetRequiredService<DataContext>();
+var userManager = services.GetRequiredService<UserManager<AppUser>>();
+var roleManager = services.GetRequiredService<RoleManager<AppRole>>();
+await context.Database.MigrateAsync();
+await Seed.SeedUsers(userManager, roleManager);
 
-app.UseSerilogRequestLogging(); // Add Serilog middleware for logging HTTP requests
+app.UseSerilogRequestLogging();
 
 app.Run();

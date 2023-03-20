@@ -1,10 +1,10 @@
-using API.DTOs;
 using API.Entities;
 using API.Interface;
+using BeautyContestAPI.Entities;
+using BeautyContestAPI.Interface;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
 using Microsoft.AspNetCore.Mvc;
-using Stripe;
 using Stripe.Checkout;
 
 namespace API.Controllers;
@@ -13,19 +13,23 @@ namespace API.Controllers;
 [Route("api/[controller]")]
 public class PaymentController : BaseApiController
 {
-    private readonly IAuditStripeSession _auditStripeSession;
     private readonly IConfiguration _configuration;
     private readonly ILogger<PaymentController> _logger;
     private readonly IUserRepository _userRepository;
+    private readonly IAuditRepository _auditRepository;
     private static string s_wasmClientURL = string.Empty;
 
-    public PaymentController(IAuditStripeSession auditStripeSession,IConfiguration configuration, ILogger<PaymentController> logger,IUserRepository userRepository)
+    public PaymentController(
+        IConfiguration configuration,
+        ILogger<PaymentController> logger,
+        IUserRepository userRepository,
+        IAuditRepository auditRepository
+        )
     {
-        _auditStripeSession = auditStripeSession;
         _configuration = configuration;
         _logger = logger;
         _userRepository = userRepository;
-        
+        _auditRepository = auditRepository;
     }
 
     [HttpPost]
@@ -34,7 +38,6 @@ public class PaymentController : BaseApiController
         var referer = Request.Headers.Referer;
         s_wasmClientURL = referer[0];
 
-        // Build the URL to which the customer will be redirected after paying.
         var server = sp.GetRequiredService<IServer>();
 
         var serverAddressesFeature = server.Features.Get<IServerAddressesFeature>();
@@ -68,19 +71,15 @@ public class PaymentController : BaseApiController
     [NonAction]
     public async Task<string> CheckOut(Vote product, string thisApiUrl)
     {
-        // Create a payment flow from the items in the cart.
-        // Gets sent to Stripe API.
-
         Stripe.StripeConfiguration.ApiKey = _configuration["Stripe:SecretKey"];
 
         string description = "You have voted " + product.Price / 100 + " to " + product.Description;
 
         var options = new SessionCreateOptions
         {
-            // Stripe calls the URLs below when certain checkout events happen such as success and failure.
-            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}" + $"&name={product.Title}", // Customer paid.
-            CancelUrl = s_wasmClientURL,  // Checkout cancelled.
-            PaymentMethodTypes = new List<string> // Only card available in test mode?
+            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}" + $"&name={product.Title}",
+            CancelUrl = s_wasmClientURL,
+            PaymentMethodTypes = new List<string>
             {
                 "card",
                 "fpx",
@@ -90,26 +89,21 @@ public class PaymentController : BaseApiController
             },
             LineItems = new List<SessionLineItemOptions>
             {
-                
                 new()
                 {
-                    
                     PriceData = new SessionLineItemPriceDataOptions
                     {
-                        
                         UnitAmount = product.Price,
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
-                        { 
+                        {
                             Name = product.Description,
                             Description = description
-                            // Images = new List<string> { product.ImageUrl }
                         },
                     },
                     Quantity = 1,
                 },
             },
-
             PaymentIntentData = new SessionPaymentIntentDataOptions
             {
                 Metadata = new Dictionary<string, string>()
@@ -118,7 +112,7 @@ public class PaymentController : BaseApiController
                     {"Description", description},
                 }
             },
-            Mode = "payment" // One-time payment. Stripe supports recurring 'subscription' payments.
+            Mode = "payment"
         };
 
         var service = new SessionService();
@@ -128,34 +122,23 @@ public class PaymentController : BaseApiController
     }
 
     [HttpGet("success")]
-    // Automatic query parameter handling from ASP.NET.
-    // Example URL: https://localhost:7051/checkout/success?sessionId=si_123123123123
     public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
-        var result = await _auditStripeSession.GetAuditStripeAsync(sessionId);
+        var result = await _auditRepository.GetAuditAsync(sessionId);
 
-        if (result == null)
+        if (result != null) { return Redirect(s_wasmClientURL); }
+
+        Audit audit = new Audit()
         {
-            AuditStripeSession auditStripeSession = new AuditStripeSession() 
-            {
-                SessionId = sessionId
-            };  
-            _auditStripeSession.AddAuditStripeLog(auditStripeSession);
-            await _auditStripeSession.SaveAllAsync();
-        }
-        else
-        {
-            return Redirect(s_wasmClientURL);
-        }
+            SessionId = sessionId
+        };
+        _auditRepository.AddAuditLog(audit);
+        await _auditRepository.SaveAllAsync();
 
         var sessionService = new SessionService();
         var session = sessionService.Get(sessionId);
-
-        // Here you can save order and customer details to your database.
         int total = Convert.ToInt32(session.AmountTotal / 100);
-        // var customerEmail = session.CustomerDetails.Email;
-        
-        //call api to store voting
+
         AppUser user = await _userRepository.GetUserByUsernameAsync(name);
 
         user.Vote += total;
@@ -168,9 +151,9 @@ public class PaymentController : BaseApiController
 
         _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
         session.PaymentIntentId,
-        session.PaymentMethodTypes, 
+        session.PaymentMethodTypes,
         msg);
-        
+
         return Redirect(s_wasmClientURL);
     }
 

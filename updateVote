@@ -1,0 +1,53 @@
+-- SQLite
+SELECT UserName, Ranking, Vote
+FROM AspNetUsers
+ORDER BY Vote DESC;
+
+
+UPDATE AspNetUsers
+SET Vote = 2230
+WHERE UserName = 'jessicachong';
+
+UPDATE AspNetUsers
+SET Vote = 1700
+WHERE UserName = 'babekelly';
+
+UPDATE AspNetUsers
+SET Vote = 1285
+WHERE UserName = 'sharmainechin';
+
+UPDATE AspNetUsers
+SET Vote = 530
+WHERE UserName = 'annietoo';
+
+UPDATE AspNetUsers
+SET Vote = 286
+WHERE UserName = 'cloeeyteh';
+
+UPDATE AspNetUsers
+SET Vote = 210
+WHERE UserName = 'winnieho';
+
+UPDATE AspNetUsers
+SET Vote = 80
+WHERE UserName = 'erinwee';
+
+UPDATE AspNetUsers
+SET Vote = 50
+WHERE UserName = 'sherecechong';
+
+UPDATE AspNetUsers
+SET Vote = 40
+WHERE UserName = 'cocotang';
+
+UPDATE AspNetUsers
+SET Vote = 30
+WHERE UserName = 'estherlee';
+
+UPDATE AspNetUsers
+SET Vote = 20
+WHERE UserName = 'maytan';
+
+UPDATE AspNetUsers
+SET Vote = 5
+WHERE UserName = 'pathew';
