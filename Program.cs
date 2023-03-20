@@ -43,7 +43,7 @@ app.UseHttpsRedirection();
 app.UseCors(builder => builder.AllowAnyHeader()
         .AllowAnyMethod()
         .AllowCredentials()
-        .WithOrigins("https://localhost:4200", "https://localhost:4200/*", "https://beautyvotingcontestsystem.azurewebsites.net", "https://beautyvotingcontestsystem.azurewebsites.net/*")
+        .WithOrigins("https://localhost:4200", "https://localhost:4200/*", "https://beautycontestgui.azurewebsites.net", "https://beautycontestgui.azurewebsites.net/*")
         );
 
 app.UseAuthentication();
