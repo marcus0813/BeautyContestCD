@@ -17,11 +17,7 @@ namespace API.Data
         public DbSet<Message> Messages { get; set; }
         public DbSet<Group> Groups { get; set; }
         public DbSet<Connection> Connections { get; set; }
-<<<<<<< HEAD
-        public DbSet<AuditStripeSession> AuditStripeSessions { get; set; }
-=======
         public DbSet<Audit> Audits { get; set; }
->>>>>>> 4e4dafe (Audit Repository)
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
