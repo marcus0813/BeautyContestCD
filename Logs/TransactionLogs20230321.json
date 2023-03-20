@@ -1,0 +1,8 @@
+2023-03-21 05:21:11.031 +08:00 [FTL] 
+ PaymentIntentId : pi_3Mnq8MCDo7sxvPil1VZvA9ga 
+ Payment Method : ["card","fpx","grabpay"] 
+ Description: You have voted 5 to sharonlow { SourceContext: "API.Controllers.PaymentController", ActionId: "7a533a42-0272-4b92-972a-4c173a8b1723", ActionName: "API.Controllers.PaymentController.CheckoutSuccess (API)", RequestId: "0HMP9H2R8FVL3:00000003", RequestPath: "/api/payment/success", ConnectionId: "0HMP9H2R8FVL3" } 
+2023-03-21 05:23:33.925 +08:00 [FTL] 
+ PaymentIntentId : pi_3MnqAXCDo7sxvPil1tLenSQj 
+ Payment Method : ["card","fpx","grabpay"] 
+ Description: You have voted 5 to sindycreamtree { SourceContext: "API.Controllers.PaymentController", ActionId: "3a96133a-819d-429c-b8db-1afa92a9db50", ActionName: "API.Controllers.PaymentController.CheckoutSuccess (API)", RequestId: "0HMP9H4VDNI0Q:00000001", RequestPath: "/api/payment/success", ConnectionId: "0HMP9H4VDNI0Q" } 

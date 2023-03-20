@@ -124,13 +124,14 @@ public class PaymentController : BaseApiController
     [HttpGet("success")]
     public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
+
         var result = await _auditRepository.GetAuditAsync(sessionId);
 
         if (result != null) { return Redirect(s_wasmClientURL); }
 
         Audit audit = new Audit()
         {
-            SessionId = sessionId
+            SessionId = sessionId,
         };
         _auditRepository.AddAuditLog(audit);
         await _auditRepository.SaveAllAsync();

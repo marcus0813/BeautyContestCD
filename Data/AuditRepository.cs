@@ -23,12 +23,12 @@ namespace BeautyContestAPI.Repositorys
         }
         public void AddAuditLog(Audit audit)
         {
-            _context.Audits.Add(audit);
+            _context.Audit.Add(audit);
         }
 
         public async Task<AuditDto> GetAuditAsync(string SessionId)
         {
-            return await _context.Audits
+            return await _context.Audit
                 .Where(x => x.SessionId == SessionId)
                 .ProjectTo<AuditDto>(_mapper.ConfigurationProvider)
                 .SingleOrDefaultAsync();

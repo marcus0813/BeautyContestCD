@@ -19,7 +19,6 @@ namespace API.Helpers
             CreateMap<MemberUpdateDto, AppUser>();
             CreateMap<Photo, PhotoDto>();
             CreateMap<RegisterDto, AppUser>();
-            CreateMap<AuditDto, Audit>();
             CreateMap<Message, MessageDto>()
                 .ForMember(d => d.SenderPhotoUrl,
                 o => o.MapFrom(s => s.Sender.Photos.FirstOrDefault(x => x.IsMain).Url))
@@ -27,6 +26,8 @@ namespace API.Helpers
                 o => o.MapFrom(s => s.Sender.Photos.FirstOrDefault(x => x.IsMain).Url));
             CreateMap<DateTime, DateTime>().ConvertUsing(d => DateTime.SpecifyKind(d, DateTimeKind.Utc));
             CreateMap<DateTime?, DateTime?>().ConvertUsing(d => d.HasValue ? DateTime.SpecifyKind(d.Value, DateTimeKind.Utc) : null);
+            CreateMap<Audit, AuditDto>();
+
         }
     }
 }

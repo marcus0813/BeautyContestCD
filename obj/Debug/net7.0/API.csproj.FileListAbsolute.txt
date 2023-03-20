@@ -497,10 +497,23 @@ D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7
 D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7.0/API.pdb
 D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7.0/API.genruntimeconfig.cache
 D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7.0/ref/API.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/API.staticwebassets.runtime.json
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/appsettings.Development.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/appsettings.json
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/appsettings.test.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Data/UserSeedData.json
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.staticwebassets.runtime.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/datingapp.db
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.deps.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.runtimeconfig.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.dll
@@ -537,6 +550,15 @@ D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
@@ -602,22 +624,4 @@ D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/obj/Debug/net7.0/API.pdb
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/obj/Debug/net7.0/ref/API.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/API.staticwebassets.runtime.json
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
-/Volumes/Data/Project/BeautyContest/BeautyContestAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
+/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Logs/TransactionLogs20230321.json

@@ -4000,19 +4000,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/george/.nuget/packages/": {}
+    "/Users/makok013/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/API.csproj",
+      "projectUniqueName": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/API.csproj",
       "projectName": "API",
-      "projectPath": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/API.csproj",
-      "packagesPath": "/Users/george/.nuget/packages/",
-      "outputPath": "/Volumes/Data/Project/BeautyContest/BeautyContestAPI/obj/",
+      "projectPath": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/API.csproj",
+      "packagesPath": "/Users/makok013/.nuget/packages/",
+      "outputPath": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/george/.nuget/NuGet/NuGet.Config"
+        "/Users/makok013/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -4113,7 +4113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
