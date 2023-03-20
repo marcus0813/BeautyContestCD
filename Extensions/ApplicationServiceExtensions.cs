@@ -30,6 +30,7 @@ namespace API.Extensions
 
             #region 'Repository'
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IAuditStripeSession, AuditStripeSessionRepository>();
             #endregion
 
             services.AddSignalR();

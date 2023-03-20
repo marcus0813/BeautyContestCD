@@ -13,16 +13,15 @@ namespace API.Controllers;
 [Route("api/[controller]")]
 public class PaymentController : BaseApiController
 {
-
+    private readonly IAuditStripeSession _auditStripeSession;
     private readonly IConfiguration _configuration;
-
     private readonly ILogger<PaymentController> _logger;
     private readonly IUserRepository _userRepository;
-
     private static string s_wasmClientURL = string.Empty;
 
-    public PaymentController(IConfiguration configuration, ILogger<PaymentController> logger,IUserRepository userRepository)
+    public PaymentController(IAuditStripeSession auditStripeSession,IConfiguration configuration, ILogger<PaymentController> logger,IUserRepository userRepository)
     {
+        _auditStripeSession = auditStripeSession;
         _configuration = configuration;
         _logger = logger;
         _userRepository = userRepository;
@@ -133,6 +132,22 @@ public class PaymentController : BaseApiController
     // Example URL: https://localhost:7051/checkout/success?sessionId=si_123123123123
     public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
+        var result = await _auditStripeSession.GetAuditStripeAsync(sessionId);
+
+        if (result == null)
+        {
+            AuditStripeSession auditStripeSession = new AuditStripeSession() 
+            {
+                SessionId = sessionId
+            };  
+            _auditStripeSession.AddAuditStripeLog(auditStripeSession);
+            await _auditStripeSession.SaveAllAsync();
+        }
+        else
+        {
+            return Redirect(s_wasmClientURL);
+        }
+
         var sessionService = new SessionService();
         var session = sessionService.Get(sessionId);
 

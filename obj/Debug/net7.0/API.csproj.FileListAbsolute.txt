@@ -501,7 +501,6 @@ D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/appsettings.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/Data/UserSeedData.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API
-/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/datingapp.db
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.deps.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.runtimeconfig.json
 /Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/bin/Debug/net7.0/API.dll
