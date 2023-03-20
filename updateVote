@@ -5,7 +5,7 @@ ORDER BY Vote DESC;
 
 
 UPDATE AspNetUsers
-SET Vote = 2230
+SET Vote = 2200
 WHERE UserName = 'jessicachong';
 
 UPDATE AspNetUsers
@@ -25,7 +25,7 @@ SET Vote = 286
 WHERE UserName = 'cloeeyteh';
 
 UPDATE AspNetUsers
-SET Vote = 210
+SET Vote = 200
 WHERE UserName = 'winnieho';
 
 UPDATE AspNetUsers
@@ -51,3 +51,12 @@ WHERE UserName = 'maytan';
 UPDATE AspNetUsers
 SET Vote = 5
 WHERE UserName = 'pathew';
+
+UPDATE AspNetUsers
+SET Vote = 0
+WHERE UserName = 'sharonlow'; 
+
+UPDATE AspNetUsers
+SET Vote = 0
+WHERE UserName = 'sindycreamtree'; 
+
