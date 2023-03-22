@@ -5,6 +5,7 @@ using BeautyContestAPI.Interface;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
 using Microsoft.AspNetCore.Mvc;
+using Stripe;
 using Stripe.Checkout;
 
 namespace API.Controllers;
@@ -110,6 +111,7 @@ public class PaymentController : BaseApiController
                 {
                     {"Username", product.Title},
                     {"Description", description},
+                    {"Url", s_wasmClientURL}
                 }
             },
             Mode = "payment"
@@ -124,89 +126,102 @@ public class PaymentController : BaseApiController
     [HttpGet("success")]
     public async Task<ActionResult> CheckoutSuccess(string sessionId, string name)
     {
+        // var result = await _auditRepository.GetAuditAsync(sessionId);
 
-        var result = await _auditRepository.GetAuditAsync(sessionId);
+        // if (result != null) { return Redirect(s_wasmClientURL); }
 
-        if (result != null) { return Redirect(s_wasmClientURL); }
+        // Audit audit = new Audit()
+        // {
+        //     SessionId = sessionId,
+        // };
+        // _auditRepository.AddAuditLog(audit);
+        // await _auditRepository.SaveAllAsync();
 
-        Audit audit = new Audit()
-        {
-            SessionId = sessionId,
-        };
-        _auditRepository.AddAuditLog(audit);
-        await _auditRepository.SaveAllAsync();
+        // var sessionService = new SessionService();
+        // var session = sessionService.Get(sessionId);
+        // int total = Convert.ToInt32(session.AmountTotal / 100);
 
-        var sessionService = new SessionService();
-        var session = sessionService.Get(sessionId);
-        int total = Convert.ToInt32(session.AmountTotal / 100);
+        // AppUser user = await _userRepository.GetUserByUsernameAsync(name);
 
-        AppUser user = await _userRepository.GetUserByUsernameAsync(name);
+        // user.Vote += total;
 
-        user.Vote += total;
+        // _userRepository.Update(user);
 
-        _userRepository.Update(user);
+        // await _userRepository.SaveAllAsync();
 
-        await _userRepository.SaveAllAsync();
+        // string msg = $"You have voted {total} to {name}";
 
-        string msg = $"You have voted {total} to {name}";
-
-        _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
-        session.PaymentIntentId,
-        session.PaymentMethodTypes,
-        msg);
+        // _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
+        // session.PaymentIntentId,
+        // session.PaymentMethodTypes,
+        // msg);
 
         return Redirect(s_wasmClientURL);
     }
 
-    // [HttpPost("webhook")]
-    // public async Task<ActionResult> WebhookHandler() 
-    // {
-    //     var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
-    //     try
-    //     {
-    //         var stripeEvent = EventUtility.ConstructEvent(json,
-    //             Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
+    [HttpPost("webhook")]
+    public async Task<ActionResult> WebhookHandler() 
+    {
+        Stripe.StripeConfiguration.ApiKey = _configuration["Stripe:SecretKey"];
 
-    //         // Handle the event
-    //         if(stripeEvent.Type == Events.ChargeSucceeded)
-    //         {
-    //             var session = stripeEvent.Data.Object as Charge;
+        var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
 
-    //             if (session.Status == "succeeded")
-    //             {
-    //                 // Here you can save order and customer details to your database.
-    //                 int total = Convert.ToInt32(session.Amount / 100);
-    //                 // var customerEmail = session.CustomerDetails.Email;
+        if(!json.Contains("charge.succeeded")) 
+        {
+            return Ok();
+        }        
+        try
+        {
+            var stripeEvent = EventUtility.ConstructEvent(json,
+                Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
 
-    //                 //call api to store voting
-    //                 AppUser user = await _userRepository.GetUserByUsernameAsync(session.Metadata["Username"]);
+            // Handle the event
+            if(stripeEvent.Type == Events.ChargeSucceeded)
+            {
+                var session = stripeEvent.Data.Object as Charge;
 
-    //                 user.Vote += total;
+                if (session.Status == "succeeded")
+                {
+                    string name = session.Metadata["Username"];
+                    // Here you can save order and customer details to your database.
+                    Audit audit = new Audit()
+                    {
+                        SessionId = session.PaymentIntentId,
+                    };
+                    _auditRepository.AddAuditLog(audit);
+                    await _auditRepository.SaveAllAsync();
 
-    //                 _userRepository.Update(user);
+                    int total = Convert.ToInt32(session.Amount / 100);
 
-    //                 await _userRepository.SaveAllAsync();
+                    AppUser user = await _userRepository.GetUserByUsernameAsync(name);
 
-    //                 _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
-    //                 session.PaymentIntentId,
-    //                 session.PaymentMethodDetails.Type,
-    //                 session.Metadata["Description"]
-    //                 );
-    //             }
+                    user.Vote += total;
 
-    //         } 
-    //         // ... handle other event types
-    //         else
-    //         {
+                    _userRepository.Update(user);
 
-    //         }
+                    await _userRepository.SaveAllAsync();
 
-    //         return Ok();
-    //     }
-    //     catch
-    //     {
-    //         return BadRequest();
-    //     }
-    // }
+                    string msg = $"You have voted {total} to {name}";
+
+                    _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
+                    session.PaymentIntentId,
+                    session.PaymentMethodDetails,
+                    msg);
+                }
+                return Ok();
+            } 
+            // ... handle other event types
+            else
+            {
+                return Ok();
+            }
+
+        }
+        catch (Exception ex)
+        {
+            _logger.LogCritical(ex.Message);
+            return BadRequest();
+        }
+    }
 
 }

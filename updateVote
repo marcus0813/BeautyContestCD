@@ -5,27 +5,27 @@ ORDER BY Vote DESC;
 
 
 UPDATE AspNetUsers
-SET Vote = 2200
+SET Vote = 3240
 WHERE UserName = 'jessicachong';
 
 UPDATE AspNetUsers
-SET Vote = 1700
+SET Vote = 2800
 WHERE UserName = 'babekelly';
 
 UPDATE AspNetUsers
-SET Vote = 1285
+SET Vote = 2520
 WHERE UserName = 'sharmainechin';
 
 UPDATE AspNetUsers
-SET Vote = 530
+SET Vote = 615
 WHERE UserName = 'annietoo';
 
 UPDATE AspNetUsers
-SET Vote = 286
+SET Vote = 386
 WHERE UserName = 'cloeeyteh';
 
 UPDATE AspNetUsers
-SET Vote = 200
+SET Vote = 815
 WHERE UserName = 'winnieho';
 
 UPDATE AspNetUsers
@@ -37,11 +37,11 @@ SET Vote = 50
 WHERE UserName = 'sherecechong';
 
 UPDATE AspNetUsers
-SET Vote = 40
+SET Vote = 105
 WHERE UserName = 'cocotang';
 
 UPDATE AspNetUsers
-SET Vote = 30
+SET Vote = 35
 WHERE UserName = 'estherlee';
 
 UPDATE AspNetUsers
