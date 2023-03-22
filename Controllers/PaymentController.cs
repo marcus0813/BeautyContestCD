@@ -172,8 +172,8 @@ public class PaymentController : BaseApiController
         }        
         try
         {
-            _logger.LogCritical("before");
-
+            _logger.LogCritical(Request.Headers["Stripe-Signature"]);
+            _logger.LogCritical(_configuration["Stripe:WebHookKey"]);
             var stripeEvent = EventUtility.ConstructEvent(json,
                 Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
 
