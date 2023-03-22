@@ -165,7 +165,6 @@ public class PaymentController : BaseApiController
         Stripe.StripeConfiguration.ApiKey = _configuration["Stripe:SecretKey"];
 
         var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
-        _logger.LogCritical(json);
 
         if(!json.Contains("charge.succeeded")) 
         {
@@ -173,9 +172,10 @@ public class PaymentController : BaseApiController
         }        
         try
         {
+            _logger.LogCritical("before");
+
             var stripeEvent = EventUtility.ConstructEvent(json,
                 Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
-            _logger.LogCritical(json);
 
             // Handle the event
             if(stripeEvent.Type == Events.ChargeSucceeded)
