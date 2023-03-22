@@ -165,6 +165,7 @@ public class PaymentController : BaseApiController
         Stripe.StripeConfiguration.ApiKey = _configuration["Stripe:SecretKey"];
 
         var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
+        _logger.LogCritical(json);
 
         if(!json.Contains("charge.succeeded")) 
         {
@@ -174,16 +175,20 @@ public class PaymentController : BaseApiController
         {
             var stripeEvent = EventUtility.ConstructEvent(json,
                 Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
+            _logger.LogCritical(json);
 
             // Handle the event
             if(stripeEvent.Type == Events.ChargeSucceeded)
             {
                 var session = stripeEvent.Data.Object as Charge;
+                _logger.LogCritical("before");
 
                 if (session.Status == "succeeded")
                 {
                     string name = session.Metadata["Username"];
                     // Here you can save order and customer details to your database.
+                    _logger.LogCritical(name);
+
                     Audit audit = new Audit()
                     {
                         SessionId = session.PaymentIntentId,
