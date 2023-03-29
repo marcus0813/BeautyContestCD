@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace (Personal)\\01 BeautyContest\\API.csproj": {}
+    "D:\\Workspace (Personal)\\01 BeautyContest\\ApplicationCore\\BeautyContest.Components\\BeautyContest.Components.csproj": {}
   },
   "projects": {
-    "D:\\Workspace (Personal)\\01 BeautyContest\\API.csproj": {
+    "D:\\Workspace (Personal)\\01 BeautyContest\\ApplicationCore\\BeautyContest.Components\\BeautyContest.Components.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace (Personal)\\01 BeautyContest\\API.csproj",
-        "projectName": "API",
-        "projectPath": "D:\\Workspace (Personal)\\01 BeautyContest\\API.csproj",
+        "projectUniqueName": "D:\\Workspace (Personal)\\01 BeautyContest\\ApplicationCore\\BeautyContest.Components\\BeautyContest.Components.csproj",
+        "projectName": "BeautyContest.Components",
+        "projectPath": "D:\\Workspace (Personal)\\01 BeautyContest\\ApplicationCore\\BeautyContest.Components\\BeautyContest.Components.csproj",
         "packagesPath": "C:\\Users\\tx.lee\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace (Personal)\\01 BeautyContest\\obj\\",
+        "outputPath": "D:\\Workspace (Personal)\\01 BeautyContest\\ApplicationCore\\BeautyContest.Components\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tx.lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -38,8 +38,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -50,6 +50,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }

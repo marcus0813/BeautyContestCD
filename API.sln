@@ -3,20 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API.csproj", "{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API.csproj", "{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{EAF6C773-430F-4D0C-8900-78031C9C34D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyContest.Entities", "ApplicationCore\BeautyContest.Entities\BeautyContest.Entities.csproj", "{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyContest.Components", "ApplicationCore\BeautyContest.Components\BeautyContest.Components.csproj", "{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyContest.Repository", "ApplicationCore\BeautyContest.Repository\BeautyContest.Repository.csproj", "{F21B9504-FE73-404E-8CF2-2F2567DF0D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyContest.Services", "ApplicationCore\BeautyContest.Services\BeautyContest.Services.csproj", "{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78A5DD7-65E3-4B56-A9E3-6C04755CCDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21B9504-FE73-404E-8CF2-2F2567DF0D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21B9504-FE73-404E-8CF2-2F2567DF0D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21B9504-FE73-404E-8CF2-2F2567DF0D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21B9504-FE73-404E-8CF2-2F2567DF0D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEDBB954-E114-4FDE-874D-C1F3FE30ACF1} = {EAF6C773-430F-4D0C-8900-78031C9C34D6}
+		{A0FFC95A-6AE8-46B5-A16F-5AB359883FA5} = {EAF6C773-430F-4D0C-8900-78031C9C34D6}
+		{F21B9504-FE73-404E-8CF2-2F2567DF0D40} = {EAF6C773-430F-4D0C-8900-78031C9C34D6}
+		{DD6EF71F-23B3-451D-A3C5-A2E3C98DA3A2} = {EAF6C773-430F-4D0C-8900-78031C9C34D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A11D1C2-07EE-4225-A615-8139C16535F2}
 	EndGlobalSection
 EndGlobal

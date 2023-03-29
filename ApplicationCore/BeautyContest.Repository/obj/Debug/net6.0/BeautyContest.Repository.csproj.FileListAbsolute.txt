@@ -1,0 +1,12 @@
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\bin\Debug\net6.0\BeautyContest.Repository.deps.json
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\bin\Debug\net6.0\BeautyContest.Repository.dll
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\bin\Debug\net6.0\BeautyContest.Repository.pdb
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.csproj.AssemblyReference.cache
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.AssemblyInfoInputs.cache
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.AssemblyInfo.cs
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.csproj.CoreCompileInputs.cache
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.dll
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\refint\BeautyContest.Repository.dll
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\BeautyContest.Repository.pdb
+D:\Workspace (Personal)\01 BeautyContest\ApplicationCore\BeautyContest.Repository\obj\Debug\net6.0\ref\BeautyContest.Repository.dll
