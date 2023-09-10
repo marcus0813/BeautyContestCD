@@ -1,67 +1,67 @@
 {
   "Files": [
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/3rdpartylicenses.txt",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/3rdpartylicenses.txt",
       "PackagePath": "staticwebassets/3rdpartylicenses.txt"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/assets/gmaps.png",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/gmaps.png",
       "PackagePath": "staticwebassets/assets/gmaps.png"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/assets/qipaologo.png",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/qipaologo.png",
       "PackagePath": "staticwebassets/assets/qipaologo.png"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/assets/user.png",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/user.png",
       "PackagePath": "staticwebassets/assets/user.png"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/assets/waze-here.png",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/waze-here.png",
       "PackagePath": "staticwebassets/assets/waze-here.png"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/favicon.ico",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "PackagePath": "staticwebassets/fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "PackagePath": "staticwebassets/fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
       "PackagePath": "staticwebassets/fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
       "PackagePath": "staticwebassets/fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
       "PackagePath": "staticwebassets/fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/index.html",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/main.d537daf3889b2c72.js",
-      "PackagePath": "staticwebassets/main.d537daf3889b2c72.js"
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/main.28fdfb565cabebc2.js",
+      "PackagePath": "staticwebassets/main.28fdfb565cabebc2.js"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/polyfills.be126616119fee81.js",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/polyfills.be126616119fee81.js",
       "PackagePath": "staticwebassets/polyfills.be126616119fee81.js"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/runtime.7ae29a296d479790.js",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/runtime.7ae29a296d479790.js",
       "PackagePath": "staticwebassets/runtime.7ae29a296d479790.js"
     },
     {
-      "Id": "/Volumes/Projects/Freelance/BeautyContest/Github/BeautyContestAPI/wwwroot/styles.8e833cc7414236c9.css",
+      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/styles.8e833cc7414236c9.css",
       "PackagePath": "staticwebassets/styles.8e833cc7414236c9.css"
     },
     {
