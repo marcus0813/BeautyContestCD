@@ -97,7 +97,7 @@ public class PaymentController : BaseApiController
                     PriceData = new SessionLineItemPriceDataOptions
                     {
                         //UnitAmount = product.Price,
-                        UnitAmount = 100,
+                        UnitAmount = 200,
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
