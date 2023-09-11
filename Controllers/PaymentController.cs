@@ -182,6 +182,7 @@ public class PaymentController : BaseApiController
             {
                 var session = stripeEvent.Data.Object as Charge;
                 _logger.LogCritical("before");
+                string url = session.Metadata["Url"].ToString();
 
                 if (session.Status == "succeeded")
                 {
@@ -213,7 +214,7 @@ public class PaymentController : BaseApiController
                     session.PaymentMethodDetails,
                     msg);
                 }
-                return Ok();
+                return Redirect(url);
             } 
             // ... handle other event types
             else
