@@ -86,7 +86,7 @@ public class PaymentController : BaseApiController
             {
                 "card",
                 "fpx",
-                //"alipay",
+                "alipay",
                 "grabpay",
                 //"apple_pay"
             },
@@ -96,8 +96,7 @@ public class PaymentController : BaseApiController
                 {
                     PriceData = new SessionLineItemPriceDataOptions
                     {
-                        //UnitAmount = product.Price,
-                        UnitAmount = 200,
+                        UnitAmount = product.Price,
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
