@@ -175,7 +175,7 @@ public class PaymentController : BaseApiController
             _logger.LogCritical(Request.Headers["Stripe-Signature"]);
             _logger.LogCritical(_configuration["Stripe:WebHookKey"]);
             var stripeEvent = EventUtility.ConstructEvent(json,
-                Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"]);
+                Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"],300,false);
 
             // Handle the event
             if(stripeEvent.Type == Events.ChargeSucceeded)
