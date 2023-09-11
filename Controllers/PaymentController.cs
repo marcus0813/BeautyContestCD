@@ -78,7 +78,9 @@ public class PaymentController : BaseApiController
 
         var options = new SessionCreateOptions
         {
-            SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}" + $"&name={product.Title}",
+            //SuccessUrl = $"{thisApiUrl}/api/payment/success?sessionId=" + "{CHECKOUT_SESSION_ID}" + $"&name={product.Title}",
+            //after implement local storage
+            SuccessUrl = s_wasmClientURL,
             CancelUrl = s_wasmClientURL,
             PaymentMethodTypes = new List<string>
             {
@@ -94,7 +96,8 @@ public class PaymentController : BaseApiController
                 {
                     PriceData = new SessionLineItemPriceDataOptions
                     {
-                        UnitAmount = product.Price,
+                        //UnitAmount = product.Price,
+                        UnitAmount = 100,
                         Currency = "MYR",
                         ProductData = new SessionLineItemPriceDataProductDataOptions
                         {
@@ -137,8 +140,9 @@ public class PaymentController : BaseApiController
         // _auditRepository.AddAuditLog(audit);
         // await _auditRepository.SaveAllAsync();
 
-        // var sessionService = new SessionService();
-        // var session = sessionService.Get(sessionId);
+        var sessionService = new SessionService();
+        var session = sessionService.Get(sessionId);
+
         // int total = Convert.ToInt32(session.AmountTotal / 100);
 
         // AppUser user = await _userRepository.GetUserByUsernameAsync(name);
@@ -156,7 +160,7 @@ public class PaymentController : BaseApiController
         // session.PaymentMethodTypes,
         // msg);
 
-        return Redirect(s_wasmClientURL);
+        return Ok();
     }
 
     [HttpPost("webhook")]
