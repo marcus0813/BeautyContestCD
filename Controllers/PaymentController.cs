@@ -169,7 +169,7 @@ public class PaymentController : BaseApiController
 
         var json = await new StreamReader(HttpContext.Request.Body).ReadToEndAsync();
 
-        if(!json.Contains("charge.succeeded")) 
+        if(!json.Contains("payment_intent.succeeded")) 
         {
             return Ok();
         }        
@@ -183,7 +183,7 @@ public class PaymentController : BaseApiController
             // Handle the event
             if(stripeEvent.Type == Events.PaymentIntentSucceeded)
             {
-                var session = stripeEvent.Data.Object as Charge;
+                var session = stripeEvent.Data.Object as PaymentIntent;
                 _logger.LogCritical("before");
                 string url = session.Metadata["Url"].ToString();
 
@@ -195,7 +195,7 @@ public class PaymentController : BaseApiController
 
                     Audit audit = new Audit()
                     {
-                        SessionId = session.PaymentIntentId,
+                        SessionId = session.Id,
                     };
                     _auditRepository.AddAuditLog(audit);
                     await _auditRepository.SaveAllAsync();
@@ -213,11 +213,11 @@ public class PaymentController : BaseApiController
                     string msg = $"You have voted {total} to {name}";
 
                     _logger.LogCritical("\n PaymentIntentId : {0} \n Payment Method : {1} \n Description: {2}",
-                    session.PaymentIntentId,
-                    session.PaymentMethodDetails,
+                    session.Id,
+                    session.PaymentMethod,
                     msg);
                 }
-                return Redirect(url);
+                return Ok();
             } 
             // ... handle other event types
             else
