@@ -181,7 +181,7 @@ public class PaymentController : BaseApiController
                 Request.Headers["Stripe-Signature"], _configuration["Stripe:WebHookKey"],300,false);
 
             // Handle the event
-            if(stripeEvent.Type == Events.ChargeSucceeded)
+            if(stripeEvent.Type == Events.PaymentIntentSucceeded)
             {
                 var session = stripeEvent.Data.Object as Charge;
                 _logger.LogCritical("before");
