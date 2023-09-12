@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/IQA-removebg-preview.png",
+      "PackagePath": "staticwebassets/assets/IQA-removebg-preview.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/IQA.png",
+      "PackagePath": "staticwebassets/assets/IQA.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/gmaps.png",
+      "PackagePath": "staticwebassets/assets/gmaps.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/ConnieLim.jpeg",
+      "PackagePath": "staticwebassets/assets/models/ConnieLim.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/JennyShee.jpeg",
+      "PackagePath": "staticwebassets/assets/models/JennyShee.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/JuneLiaw.jpeg",
+      "PackagePath": "staticwebassets/assets/models/JuneLiaw.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/LiFen.jpeg",
+      "PackagePath": "staticwebassets/assets/models/LiFen.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/MayaLee.jpeg",
+      "PackagePath": "staticwebassets/assets/models/MayaLee.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/models/Sherena.jpeg",
+      "PackagePath": "staticwebassets/assets/models/Sherena.jpeg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/qipaologo.png",
+      "PackagePath": "staticwebassets/assets/qipaologo.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/user.png",
+      "PackagePath": "staticwebassets/assets/user.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/assets/waze-here.png",
+      "PackagePath": "staticwebassets/assets/waze-here.png"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets/fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets/fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets/fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets/fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets/fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/main.27eea1202e3f0a6e.js",
+      "PackagePath": "staticwebassets/main.27eea1202e3f0a6e.js"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/polyfills.4709fd955acb2242.js",
+      "PackagePath": "staticwebassets/polyfills.4709fd955acb2242.js"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/runtime.7ae29a296d479790.js",
+      "PackagePath": "staticwebassets/runtime.7ae29a296d479790.js"
+    },
+    {
+      "Id": "/Volumes/Projects/SHIN ERA TECH/Projects/BeautyContestAPI/Beauty-Contest-API/wwwroot/styles.cf3dac6b34db8be1.css",
+      "PackagePath": "staticwebassets/styles.cf3dac6b34db8be1.css"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
