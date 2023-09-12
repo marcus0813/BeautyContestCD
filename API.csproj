@@ -26,16 +26,12 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <None Remove="datingapp.db" />
-  </ItemGroup>
-  <ItemGroup>
     <None Update="datingapp.db">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="datingapp.db">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <Folder Include="bin\Release\" />
+    <Folder Include="bin\Debug\" />
   </ItemGroup>
 </Project>
