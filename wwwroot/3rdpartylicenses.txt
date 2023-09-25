@@ -172,9 +172,6 @@ THE SOFTWARE.
 font-awesome
 (OFL-1.1 AND MIT)
 
-ng2-file-upload
-MIT
-
 ngx-bootstrap/buttons
 MIT
 
