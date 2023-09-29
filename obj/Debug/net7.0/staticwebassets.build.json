@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tskJoLOkI+13+LytHMGCvP487XPoy1g5sgIAdsLll9o=",
+  "Hash": "+3csRgH3thUeO2u6km93IjY0SCQ9Ce8vYnuXJQ+t0cw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "API/wwwroot",
+      "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/3rdpartylicenses.txt",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/3rdpartylicenses.txt"
+      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/gmaps.png",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/gmaps.png",
       "AssetKind": "All",
@@ -48,13 +48,166 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/gmaps.png"
+      "OriginalItemSpec": "wwwroot\\assets\\gmaps.png"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/qipaologo.png",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/IQA-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\IQA-removebg-preview.png"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/IQA.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\IQA.png"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/ConnieLim.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\ConnieLim.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/JennyShee.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\JennyShee.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/JuneLiaw.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\JuneLiaw.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/LiFen.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\LiFen.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/MayaLee.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\MayaLee.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\MayÂLee.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/MayÂLee.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\MayÂLee.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/models/Sherena.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\models\\Sherena.jpeg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/qipaologo.png",
       "AssetKind": "All",
@@ -65,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/qipaologo.png"
+      "OriginalItemSpec": "wwwroot\\assets\\qipaologo.png"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/user.png",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/user.png",
       "AssetKind": "All",
@@ -82,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/user.png"
+      "OriginalItemSpec": "wwwroot\\assets\\user.png"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/waze-here.png",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/waze-here.png",
       "AssetKind": "All",
@@ -99,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/waze-here.png"
+      "OriginalItemSpec": "wwwroot\\assets\\waze-here.png"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/favicon.ico",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -116,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
@@ -133,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
@@ -150,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
@@ -167,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/fontawesome-webfont.cf011583fb81df9f.woff"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
@@ -184,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
@@ -201,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2"
+      "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/index.html",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -218,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/main.28fdfb565cabebc2.js",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.730f15e0d4f4ee52.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.28fdfb565cabebc2.js",
+      "RelativePath": "main.730f15e0d4f4ee52.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/main.28fdfb565cabebc2.js"
+      "OriginalItemSpec": "wwwroot\\main.730f15e0d4f4ee52.js"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/polyfills.be126616119fee81.js",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\polyfills.be126616119fee81.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.be126616119fee81.js",
       "AssetKind": "All",
@@ -252,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/polyfills.be126616119fee81.js"
+      "OriginalItemSpec": "wwwroot\\polyfills.be126616119fee81.js"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/runtime.7ae29a296d479790.js",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\runtime.7ae29a296d479790.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.7ae29a296d479790.js",
       "AssetKind": "All",
@@ -269,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/runtime.7ae29a296d479790.js"
+      "OriginalItemSpec": "wwwroot\\runtime.7ae29a296d479790.js"
     },
     {
-      "Identity": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/styles.8e833cc7414236c9.css",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\styles.e2127f1352e2826d.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "styles.8e833cc7414236c9.css",
+      "RelativePath": "styles.e2127f1352e2826d.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,7 +439,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/styles.8e833cc7414236c9.css"
+      "OriginalItemSpec": "wwwroot\\styles.e2127f1352e2826d.css"
     }
   ]
 }

@@ -1,83 +1,119 @@
 {
   "Files": [
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/3rdpartylicenses.txt",
-      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/gmaps.png",
-      "PackagePath": "staticwebassets/assets/gmaps.png"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\IQA-removebg-preview.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/qipaologo.png",
-      "PackagePath": "staticwebassets/assets/qipaologo.png"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
+      "PackagePath": "staticwebassets\\assets\\IQA.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/user.png",
-      "PackagePath": "staticwebassets/assets/user.png"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
+      "PackagePath": "staticwebassets\\assets\\gmaps.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/assets/waze-here.png",
-      "PackagePath": "staticwebassets/assets/waze-here.png"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\ConnieLim.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\JennyShee.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
-      "PackagePath": "staticwebassets/fontawesome-webfont.2b13baa7dd4f54c9.eot"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\JuneLiaw.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
-      "PackagePath": "staticwebassets/fontawesome-webfont.8a7cb27d142e3e19.ttf"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\LiFen.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
-      "PackagePath": "staticwebassets/fontawesome-webfont.cf011583fb81df9f.woff"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\MayaLee.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
-      "PackagePath": "staticwebassets/fontawesome-webfont.da909aa098b0ee2d.svg"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\MayÂLee.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\MayÂLee.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
-      "PackagePath": "staticwebassets/fontawesome-webfont.e9955780856cf8aa.woff2"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
+      "PackagePath": "staticwebassets\\assets\\models\\Sherena.jpeg"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
+      "PackagePath": "staticwebassets\\assets\\qipaologo.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/main.28fdfb565cabebc2.js",
-      "PackagePath": "staticwebassets/main.28fdfb565cabebc2.js"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/polyfills.be126616119fee81.js",
-      "PackagePath": "staticwebassets/polyfills.be126616119fee81.js"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
+      "PackagePath": "staticwebassets\\assets\\waze-here.png"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/runtime.7ae29a296d479790.js",
-      "PackagePath": "staticwebassets/runtime.7ae29a296d479790.js"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/wwwroot/styles.8e833cc7414236c9.css",
-      "PackagePath": "staticwebassets/styles.8e833cc7414236c9.css"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.730f15e0d4f4ee52.js",
+      "PackagePath": "staticwebassets\\main.730f15e0d4f4ee52.js"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\polyfills.be126616119fee81.js",
+      "PackagePath": "staticwebassets\\polyfills.be126616119fee81.js"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\runtime.7ae29a296d479790.js",
+      "PackagePath": "staticwebassets\\runtime.7ae29a296d479790.js"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\styles.e2127f1352e2826d.css",
+      "PackagePath": "staticwebassets\\styles.e2127f1352e2826d.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
       "PackagePath": "build\\API.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
       "PackagePath": "buildMultiTargeting\\API.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
       "PackagePath": "buildTransitive\\API.props"
     }
   ],

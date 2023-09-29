@@ -4000,25 +4000,28 @@
     ]
   },
   "packageFolders": {
-    "/Users/george/.nuget/packages/": {}
+    "C:\\Users\\marcus.kok\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/API.csproj",
+      "projectUniqueName": "M:\\E-Learning\\BC\\BeautyContestCD\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/API.csproj",
-      "packagesPath": "/Users/george/.nuget/packages/",
-      "outputPath": "/Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/obj/",
+      "projectPath": "M:\\E-Learning\\BC\\BeautyContestCD\\API.csproj",
+      "packagesPath": "C:\\Users\\marcus.kok\\.nuget\\packages\\",
+      "outputPath": "M:\\E-Learning\\BC\\BeautyContestCD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/george/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\marcus.kok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\marcus.kok\\Downloads": {},
+        "M:\\DLL": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4113,7 +4116,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
