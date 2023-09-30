@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+3csRgH3thUeO2u6km93IjY0SCQ9Ce8vYnuXJQ+t0cw=",
+  "Hash": "b6qYCoFkcaQsIqFU7CnT4DWyLv/B6E2jCljg9PWMX5Y=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -32,6 +32,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/about1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\about1.jpg"
+    },
+    {
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/about2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\about2.jpg"
     },
     {
       "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
@@ -374,12 +408,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.730f15e0d4f4ee52.js",
+      "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.a90fb8f13ea5865c.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.730f15e0d4f4ee52.js",
+      "RelativePath": "main.a90fb8f13ea5865c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,7 +422,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.730f15e0d4f4ee52.js"
+      "OriginalItemSpec": "wwwroot\\main.a90fb8f13ea5865c.js"
     },
     {
       "Identity": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\polyfills.be126616119fee81.js",

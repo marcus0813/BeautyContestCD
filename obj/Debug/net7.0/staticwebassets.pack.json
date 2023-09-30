@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\assets\\IQA.png"
     },
     {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\about1.jpg"
+    },
+    {
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
+      "PackagePath": "staticwebassets\\assets\\about2.jpg"
+    },
+    {
       "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
       "PackagePath": "staticwebassets\\assets\\gmaps.png"
     },
@@ -85,8 +93,8 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.730f15e0d4f4ee52.js",
-      "PackagePath": "staticwebassets\\main.730f15e0d4f4ee52.js"
+      "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\main.a90fb8f13ea5865c.js",
+      "PackagePath": "staticwebassets\\main.a90fb8f13ea5865c.js"
     },
     {
       "Id": "M:\\E-Learning\\BC\\BeautyContestCD\\wwwroot\\polyfills.be126616119fee81.js",
