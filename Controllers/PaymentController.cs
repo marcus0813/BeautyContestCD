@@ -116,6 +116,10 @@ public class PaymentController : BaseApiController
                     {"Url", s_wasmClientURL}
                 }
             },
+            PhoneNumberCollection = new SessionPhoneNumberCollectionOptions
+            {
+                Enabled = true,
+            },
             Mode = "payment"
         };
 

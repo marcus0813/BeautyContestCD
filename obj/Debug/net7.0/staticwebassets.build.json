@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iL3Ko9F/rYspSG4cqbMbGNmrrvhXAVi387ZA81i+hnk=",
+  "Hash": "dDqjw3/AkWXHA7SxDIfI39QBuQk6mMPyrHpkujEzgo4=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -935,12 +935,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\main.612525e7d892cda9.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\main.b879c1501b0f8a60.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.612525e7d892cda9.js",
+      "RelativePath": "main.b879c1501b0f8a60.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,7 +949,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.612525e7d892cda9.js"
+      "OriginalItemSpec": "wwwroot\\main.b879c1501b0f8a60.js"
     },
     {
       "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
