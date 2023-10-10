@@ -1,255 +1,259 @@
 {
   "Files": [
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2",
       "PackagePath": "staticwebassets\\QhuertoRegular.4b50d34204c6adfc.woff2"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot",
       "PackagePath": "staticwebassets\\QhuertoRegular.611e06ef4462ccf6.eot"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.656b1bd375b92818.svg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.656b1bd375b92818.svg",
       "PackagePath": "staticwebassets\\QhuertoRegular.656b1bd375b92818.svg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff",
       "PackagePath": "staticwebassets\\QhuertoRegular.95e8cc8d75f7906e.woff"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.9dd304717487572f.ttf",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.9dd304717487572f.ttf",
       "PackagePath": "staticwebassets\\QhuertoRegular.9dd304717487572f.ttf"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
       "PackagePath": "staticwebassets\\assets\\IQA-removebg-preview.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
       "PackagePath": "staticwebassets\\assets\\IQA.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
       "PackagePath": "staticwebassets\\assets\\about1.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
       "PackagePath": "staticwebassets\\assets\\about2.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-icons.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\Features-Image-icons.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-images.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-images.css",
       "PackagePath": "staticwebassets\\assets\\css\\Features-Image-images.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Qhuerto.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Qhuerto.css",
       "PackagePath": "staticwebassets\\assets\\css\\Qhuerto.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\animate.min.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\aos.min.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\aos.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\aos.min.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\untitled.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\untitled.css",
       "PackagePath": "staticwebassets\\assets\\css\\untitled.css"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.eot",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\QhuertoRegular.eot"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.svg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\QhuertoRegular.svg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.ttf",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\QhuertoRegular.ttf"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\QhuertoRegular.woff"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff2",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\QhuertoRegular.woff2"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
       "PackagePath": "staticwebassets\\assets\\gmaps.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Logo\\logo.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\Logo\\logo.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant1.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant1.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant10.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant10.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant11.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant11.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant12.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant12.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant13.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant13.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant14.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant14.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant14.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant15.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant15.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant15.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant2.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant16.jpg"
+    },
+    {
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant2.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant3.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant3.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant4.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant4.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant5.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant5.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant6.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant6.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant7.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant7.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant8.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant8.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant9.jpg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Models\\contestant9.jpg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\1.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\1.png",
       "PackagePath": "staticwebassets\\assets\\img\\Ranking_Decoration\\1.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\2.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\2.png",
       "PackagePath": "staticwebassets\\assets\\img\\Ranking_Decoration\\2.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\3.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\3.png",
       "PackagePath": "staticwebassets\\assets\\img\\Ranking_Decoration\\3.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\aos.min.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\aos.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\aos.min.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\bold-and-dark.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bold-and-dark.js",
       "PackagePath": "staticwebassets\\assets\\js\\bold-and-dark.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\bs-init.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bs-init.js",
       "PackagePath": "staticwebassets\\assets\\js\\bs-init.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\ConnieLim.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\JennyShee.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\JuneLiaw.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\LiFen.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\MayaLee.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
       "PackagePath": "staticwebassets\\assets\\models\\Sherena.jpeg"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
       "PackagePath": "staticwebassets\\assets\\qipaologo.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\user.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\user.png",
       "PackagePath": "staticwebassets\\assets\\user.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
       "PackagePath": "staticwebassets\\assets\\waze-here.png"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\favicon.ico",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\index.html",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\main.7e02ace957214c60.js",
-      "PackagePath": "staticwebassets\\main.7e02ace957214c60.js"
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\main.612525e7d892cda9.js",
+      "PackagePath": "staticwebassets\\main.612525e7d892cda9.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
       "PackagePath": "staticwebassets\\polyfills.84def97d290f7599.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\runtime.cddff2dbcd364961.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\runtime.cddff2dbcd364961.js",
       "PackagePath": "staticwebassets\\runtime.cddff2dbcd364961.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\scripts.7720c670e7825879.js",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\scripts.7720c670e7825879.js",
       "PackagePath": "staticwebassets\\scripts.7720c670e7825879.js"
     },
     {
-      "Id": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\styles.39bfa76c635b762b.css",
+      "Id": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\styles.39bfa76c635b762b.css",
       "PackagePath": "staticwebassets\\styles.39bfa76c635b762b.css"
     },
     {

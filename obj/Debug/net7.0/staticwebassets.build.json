@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m3FaI+RVUcHmZVZ2CF+cdhq6s8W7TJ8DMkyYahw/qCY=",
+  "Hash": "iL3Ko9F/rYspSG4cqbMbGNmrrvhXAVi387ZA81i+hnk=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/about1.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\about1.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/about2.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\about2.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\animate.min.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\animate.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/animate.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.min.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\aos.min.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\aos.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/aos.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\aos.min.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-icons.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-icons.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Features-Image-icons.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Features-Image-icons.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-images.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-images.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Features-Image-images.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Features-Image-images.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\Qhuerto.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Qhuerto.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Qhuerto.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Qhuerto.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\css\\untitled.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\untitled.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/untitled.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\untitled.css"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.eot",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.eot",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.eot"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.svg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.svg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.ttf",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.ttf"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.woff"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff2",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.woff2",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.woff2"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/gmaps.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\gmaps.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Logo/logo.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Logo\\logo.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Logo/logo.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Logo\\logo.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant1.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant1.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant10.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant10.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant10.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant10.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant11.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant11.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant11.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant11.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant12.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant12.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant12.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant12.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant13.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant13.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant13.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant13.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant14.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant14.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant14.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant14.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant15.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant15.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant15.jpg",
       "AssetKind": "All",
@@ -459,10 +459,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant15.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant2.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant16.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant16.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant16.jpg"
+    },
+    {
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant2.jpg",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant2.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant3.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant3.jpg",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant3.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant4.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant4.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant4.jpg",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant4.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant5.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant5.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant5.jpg",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant5.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant6.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant6.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant6.jpg",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant6.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant7.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant7.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant7.jpg",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant7.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant8.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant8.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant8.jpg",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant8.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant9.jpg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant9.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant9.jpg",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant9.jpg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\1.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/1.png",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\1.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\2.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/2.png",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\2.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\3.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/3.png",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\3.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/IQA.png",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\IQA.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/IQA-removebg-preview.png",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\IQA-removebg-preview.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\aos.min.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\aos.min.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/aos.min.js",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\aos.min.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\bold-and-dark.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bold-and-dark.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/bold-and-dark.js",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bold-and-dark.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\js\\bs-init.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bs-init.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/bs-init.js",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bs-init.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/ConnieLim.jpeg",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\ConnieLim.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/JennyShee.jpeg",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\JennyShee.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/JuneLiaw.jpeg",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\JuneLiaw.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/LiFen.jpeg",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\LiFen.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/MayaLee.jpeg",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\MayaLee.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/Sherena.jpeg",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\models\\Sherena.jpeg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/qipaologo.png",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\qipaologo.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\user.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/user.png",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\user.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/waze-here.png",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\waze-here.png"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\favicon.ico",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\index.html",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -918,12 +935,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\main.7e02ace957214c60.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\main.612525e7d892cda9.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.7e02ace957214c60.js",
+      "RelativePath": "main.612525e7d892cda9.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.7e02ace957214c60.js"
+      "OriginalItemSpec": "wwwroot\\main.612525e7d892cda9.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.84def97d290f7599.js",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\polyfills.84def97d290f7599.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.4b50d34204c6adfc.woff2",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.611e06ef4462ccf6.eot",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.656b1bd375b92818.svg",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.656b1bd375b92818.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.656b1bd375b92818.svg",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\QhuertoRegular.656b1bd375b92818.svg"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.95e8cc8d75f7906e.woff",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\QhuertoRegular.9dd304717487572f.ttf",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.9dd304717487572f.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.9dd304717487572f.ttf",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\QhuertoRegular.9dd304717487572f.ttf"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\runtime.cddff2dbcd364961.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\runtime.cddff2dbcd364961.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.cddff2dbcd364961.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\runtime.cddff2dbcd364961.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\scripts.7720c670e7825879.js",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\scripts.7720c670e7825879.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "scripts.7720c670e7825879.js",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\scripts.7720c670e7825879.js"
     },
     {
-      "Identity": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\styles.39bfa76c635b762b.css",
+      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\styles.39bfa76c635b762b.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "styles.39bfa76c635b762b.css",
       "AssetKind": "All",
