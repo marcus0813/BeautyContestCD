@@ -4005,11 +4005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\E-Learning\\BC\\BeautyContestCD\\API.csproj",
+      "projectUniqueName": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\API.csproj",
       "projectName": "API",
-      "projectPath": "M:\\E-Learning\\BC\\BeautyContestCD\\API.csproj",
+      "projectPath": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\API.csproj",
       "packagesPath": "C:\\Users\\marcus.kok\\.nuget\\packages\\",
-      "outputPath": "M:\\E-Learning\\BC\\BeautyContestCD\\obj\\",
+      "outputPath": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcus.kok\\AppData\\Roaming\\NuGet\\NuGet.Config",

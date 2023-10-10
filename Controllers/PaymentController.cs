@@ -36,7 +36,7 @@ public class PaymentController : BaseApiController
     [HttpPost]
     public async Task<ActionResult> CheckoutOrder([FromBody] Vote product, [FromServices] IServiceProvider sp)
     {
-        var referer = Request.Headers.Referer;
+        var referer = Request.Headers.Origin;
         s_wasmClientURL = referer[0];
 
         var server = sp.GetRequiredService<IServer>();

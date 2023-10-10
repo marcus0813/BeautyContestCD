@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGOm0gcRDf8BCKvFbh0Rqz1g6VLLxQFvB/wj7AoS+PHLamTz9olsfSUTBSEtrzAZTj/kFs5P27ewQ891gIHBHg==",
+  "dgSpecHash": "Vt8I5oUNVd0Bsmv+L/MyfgzOA5TwrqzO1Iqz9S+Mrob9KCHm4xynX4gaMY3Q34ke1ghAQduOLm3f1Bb8/YePVQ==",
   "success": true,
-  "projectFilePath": "M:\\E-Learning\\BC\\BeautyContestCD\\API.csproj",
+  "projectFilePath": "D:\\E-Learning\\Freelnace\\BeautyContestCD\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcus.kok\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\marcus.kok\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
