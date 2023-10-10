@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Qhuerto';
+	src: url(../../assets/fonts/QhuertoRegular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/QhuertoRegular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/QhuertoRegular.woff2) format('woff2'),
+	url(../../assets/fonts/QhuertoRegular.woff) format('woff'),
+	url(../../assets/fonts/QhuertoRegular.ttf) format('truetype'),
+	url(../../assets/fonts/QhuertoRegular.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
