@@ -1,2 +1,4 @@
 datingapp.db
+datingapp.db-shm
+datingapp.db-wal
 .DS_Store
