@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1msDVVBpoNUNxxZbbpkTGJg/61K0JiW8irMNP8uMBdE=",
+  "Hash": "HZouYsFQZ8ekpAQxS3hWjP2Yrmiwx5YO87KCKZ6ih74=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/main.b879c1501b0f8a60.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/main.8cd40d64f5cc5cf0.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
-      "RelativePath": "main.b879c1501b0f8a60.js",
+      "RelativePath": "main.8cd40d64f5cc5cf0.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,7 +1102,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/main.b879c1501b0f8a60.js"
+      "OriginalItemSpec": "wwwroot/main.8cd40d64f5cc5cf0.js"
     },
     {
       "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/polyfills.84def97d290f7599.js",
@@ -1139,6 +1139,23 @@
       "OriginalItemSpec": "wwwroot/QhuertoRegular.4b50d34204c6adfc.woff2"
     },
     {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.4eef87c681dc5390.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "QhuertoRegular.4eef87c681dc5390.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.4eef87c681dc5390.svg"
+    },
+    {
       "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.611e06ef4462ccf6.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -1154,23 +1171,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/QhuertoRegular.611e06ef4462ccf6.eot"
-    },
-    {
-      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.656b1bd375b92818.svg",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
-      "BasePath": "_content/API",
-      "RelativePath": "QhuertoRegular.656b1bd375b92818.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/QhuertoRegular.656b1bd375b92818.svg"
     },
     {
       "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.95e8cc8d75f7906e.woff",
@@ -1241,12 +1241,12 @@
       "OriginalItemSpec": "wwwroot/scripts.7720c670e7825879.js"
     },
     {
-      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/styles.39bfa76c635b762b.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/styles.78093a5690f9bccb.css",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
-      "RelativePath": "styles.39bfa76c635b762b.css",
+      "RelativePath": "styles.78093a5690f9bccb.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,7 +1255,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/styles.39bfa76c635b762b.css"
+      "OriginalItemSpec": "wwwroot/styles.78093a5690f9bccb.css"
     }
   ]
 }

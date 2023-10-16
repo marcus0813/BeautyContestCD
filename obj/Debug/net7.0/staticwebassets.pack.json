@@ -13,12 +13,12 @@
       "PackagePath": "staticwebassets/QhuertoRegular.4b50d34204c6adfc.woff2"
     },
     {
-      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.611e06ef4462ccf6.eot",
-      "PackagePath": "staticwebassets/QhuertoRegular.611e06ef4462ccf6.eot"
+      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.4eef87c681dc5390.svg",
+      "PackagePath": "staticwebassets/QhuertoRegular.4eef87c681dc5390.svg"
     },
     {
-      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.656b1bd375b92818.svg",
-      "PackagePath": "staticwebassets/QhuertoRegular.656b1bd375b92818.svg"
+      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.611e06ef4462ccf6.eot",
+      "PackagePath": "staticwebassets/QhuertoRegular.611e06ef4462ccf6.eot"
     },
     {
       "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.95e8cc8d75f7906e.woff",
@@ -273,8 +273,8 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/main.b879c1501b0f8a60.js",
-      "PackagePath": "staticwebassets/main.b879c1501b0f8a60.js"
+      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/main.8cd40d64f5cc5cf0.js",
+      "PackagePath": "staticwebassets/main.8cd40d64f5cc5cf0.js"
     },
     {
       "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/polyfills.84def97d290f7599.js",
@@ -289,8 +289,8 @@
       "PackagePath": "staticwebassets/scripts.7720c670e7825879.js"
     },
     {
-      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/styles.39bfa76c635b762b.css",
-      "PackagePath": "staticwebassets/styles.39bfa76c635b762b.css"
+      "Id": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/styles.78093a5690f9bccb.css",
+      "PackagePath": "staticwebassets/styles.78093a5690f9bccb.css"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
