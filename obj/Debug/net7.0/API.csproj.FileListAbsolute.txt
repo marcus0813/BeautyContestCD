@@ -743,354 +743,471 @@ D:/workspace/Misc/Personal Project/BeautyContest/BeautyContestAPI/obj/Debug/net7
 /Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/obj/Debug/net7.0/API.pdb
 /Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Volumes/Data/Project/Shin-Era-Tech/Beauty-Contest-API/obj/Debug/net7.0/ref/API.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\appsettings.Development.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\appsettings.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\appsettings.test.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Data\UserSeedData.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.staticwebassets.runtime.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.exe
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\datingapp.db
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.deps.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.runtimeconfig.json
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\API.pdb
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\AutoMapper.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Azure.Core.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Blobs.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Common.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Humanizer.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.OpenApi.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Mono.TextTemplating.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Newtonsoft.Json.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.AspNetCore.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.File.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Stripe.net.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.CodeDom.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Drawing.Common.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.IO.Hashing.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Memory.Data.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Security.Permissions.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\System.Windows.Extensions.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-M:\E-Learning\BC\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfo.cs
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets.pack.json
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets.build.json
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\staticwebassets.development.json
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.csproj.CopyComplete
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.dll
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\refint\API.dll
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.pdb
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\API.genruntimeconfig.cache
-M:\E-Learning\BC\BeautyContestCD\obj\Debug\net7.0\ref\API.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\appsettings.Development.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\appsettings.test.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Data\UserSeedData.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\appsettings.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.staticwebassets.runtime.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.exe
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\datingapp.db
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.deps.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.runtimeconfig.json
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\API.pdb
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\AutoMapper.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Azure.Core.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Blobs.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Common.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Humanizer.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.AspNetCore.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.File.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Stripe.net.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.CodeDom.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.IO.Hashing.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Memory.Data.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\E-Learning\Freelnace\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfo.cs
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets.pack.json
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets.build.json
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\staticwebassets.development.json
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.csproj.CopyComplete
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.dll
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\refint\API.dll
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.pdb
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\API.genruntimeconfig.cache
-D:\E-Learning\Freelnace\BeautyContestCD\obj\Debug\net7.0\ref\API.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\appsettings.Development.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\appsettings.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\appsettings.test.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Data\UserSeedData.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.staticwebassets.runtime.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.exe
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\datingapp.db
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.deps.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.runtimeconfig.json
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\API.pdb
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\AutoMapper.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Azure.Core.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Blobs.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Azure.Storage.Common.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Humanizer.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.OpenApi.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Mono.TextTemplating.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Newtonsoft.Json.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.AspNetCore.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Serilog.Sinks.File.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Stripe.net.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.CodeDom.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Drawing.Common.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.IO.Hashing.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Memory.Data.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Security.Permissions.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\System.Windows.Extensions.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-F:\latest beauty\BeautyContestCD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.AssemblyInfo.cs
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets.pack.json
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets.build.json
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\staticwebassets.development.json
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.csproj.CopyComplete
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.dll
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\refint\API.dll
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.pdb
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\API.genruntimeconfig.cache
-F:\latest beauty\BeautyContestCD\obj\Debug\net7.0\ref\API.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/appsettings.Development.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/appsettings.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/appsettings.test.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Data/UserSeedData.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.staticwebassets.runtime.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.exe
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/datingapp.db
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.deps.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.runtimeconfig.json
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/API.pdb
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/AutoMapper.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Azure.Core.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Common.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Humanizer.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.OpenApi.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Mono.TextTemplating.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Newtonsoft.Json.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.AspNetCore.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.File.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Stripe.net.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.CodeDom.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Drawing.Common.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.IO.Hashing.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Memory.Data.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Security.Permissions.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/System.Windows.Extensions.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+M:/E-Learning/BC/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfo.cs
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets.pack.json
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets.build.json
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/staticwebassets.development.json
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.csproj.CopyComplete
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.dll
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/refint/API.dll
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.pdb
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/API.genruntimeconfig.cache
+M:/E-Learning/BC/BeautyContestCD/obj/Debug/net7.0/ref/API.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/appsettings.Development.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/appsettings.test.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Data/UserSeedData.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/appsettings.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.staticwebassets.runtime.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.exe
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/datingapp.db
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.deps.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.runtimeconfig.json
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/API.pdb
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/AutoMapper.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Azure.Core.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Common.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Humanizer.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.AspNetCore.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.File.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Stripe.net.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.CodeDom.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.IO.Hashing.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Memory.Data.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/E-Learning/Freelnace/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfo.cs
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets.pack.json
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets.build.json
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/staticwebassets.development.json
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.csproj.CopyComplete
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.dll
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/refint/API.dll
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.pdb
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/API.genruntimeconfig.cache
+D:/E-Learning/Freelnace/BeautyContestCD/obj/Debug/net7.0/ref/API.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/appsettings.Development.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/appsettings.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/appsettings.test.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Data/UserSeedData.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.staticwebassets.runtime.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.exe
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/datingapp.db
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.deps.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.runtimeconfig.json
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/API.pdb
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/AutoMapper.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Azure.Core.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Common.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Humanizer.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.OpenApi.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Mono.TextTemplating.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Newtonsoft.Json.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.AspNetCore.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.File.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Stripe.net.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.CodeDom.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Drawing.Common.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.IO.Hashing.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Memory.Data.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Security.Permissions.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/System.Windows.Extensions.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+F:/latest beauty/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfo.cs
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets.pack.json
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets.build.json
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/staticwebassets.development.json
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.csproj.CopyComplete
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.dll
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/refint/API.dll
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.pdb
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/API.genruntimeconfig.cache
+F:/latest beauty/BeautyContestCD/obj/Debug/net7.0/ref/API.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/appsettings.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/appsettings.test.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Data/UserSeedData.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API.staticwebassets.runtime.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/datingapp.db
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API.deps.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API.runtimeconfig.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/API.pdb
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/AutoMapper.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Azure.Core.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Azure.Storage.Common.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Humanizer.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Serilog.Sinks.File.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Stripe.net.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.CodeDom.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Drawing.Common.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.IO.Hashing.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Memory.Data.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Security.Permissions.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.csproj.CopyComplete
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/refint/API.dll
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.pdb
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/Debug/net7.0/ref/API.dll

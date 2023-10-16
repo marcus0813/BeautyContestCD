@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\latest beauty\\BeautyContestCD\\API.csproj": {}
+    "/Volumes/Projects/BeautyContest/September/BeautyContestCD/API.csproj": {}
   },
   "projects": {
-    "F:\\latest beauty\\BeautyContestCD\\API.csproj": {
+    "/Volumes/Projects/BeautyContest/September/BeautyContestCD/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\latest beauty\\BeautyContestCD\\API.csproj",
+        "projectUniqueName": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\latest beauty\\BeautyContestCD\\API.csproj",
-        "packagesPath": "C:\\Users\\rende\\.nuget\\packages\\",
-        "outputPath": "F:\\latest beauty\\BeautyContestCD\\obj\\",
+        "projectPath": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/API.csproj",
+        "packagesPath": "/Users/makok013/.nuget/packages/",
+        "outputPath": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rende\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/makok013/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -116,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

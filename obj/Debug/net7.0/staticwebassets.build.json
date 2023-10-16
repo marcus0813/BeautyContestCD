@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dDqjw3/AkWXHA7SxDIfI39QBuQk6mMPyrHpkujEzgo4=",
+  "Hash": "1msDVVBpoNUNxxZbbpkTGJg/61K0JiW8irMNP8uMBdE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -8,19 +8,36 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "API\\wwwroot",
+      "Name": "API/wwwroot",
       "Source": "API",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/.DS_Store",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/3rdpartylicenses.txt",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -31,13 +48,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
+      "OriginalItemSpec": "wwwroot/3rdpartylicenses.txt"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about1.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/.DS_Store",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/.DS_Store"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/about1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/about1.jpg",
       "AssetKind": "All",
@@ -48,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\about1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/about1.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\about2.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/about2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/about2.jpg",
       "AssetKind": "All",
@@ -65,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\about2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/about2.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/bootstrap/css/bootstrap.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -82,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/assets/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/bootstrap/js/bootstrap.min.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -99,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/assets/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\animate.min.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/animate.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/animate.min.css",
       "AssetKind": "All",
@@ -116,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\animate.min.css"
+      "OriginalItemSpec": "wwwroot/assets/css/animate.min.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\aos.min.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/aos.min.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/aos.min.css",
       "AssetKind": "All",
@@ -133,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\aos.min.css"
+      "OriginalItemSpec": "wwwroot/assets/css/aos.min.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-icons.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/Features-Image-icons.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Features-Image-icons.css",
       "AssetKind": "All",
@@ -150,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\Features-Image-icons.css"
+      "OriginalItemSpec": "wwwroot/assets/css/Features-Image-icons.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Features-Image-images.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/Features-Image-images.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Features-Image-images.css",
       "AssetKind": "All",
@@ -167,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\Features-Image-images.css"
+      "OriginalItemSpec": "wwwroot/assets/css/Features-Image-images.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\Qhuerto.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/Qhuerto.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/Qhuerto.css",
       "AssetKind": "All",
@@ -184,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\Qhuerto.css"
+      "OriginalItemSpec": "wwwroot/assets/css/Qhuerto.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\css\\untitled.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/css/untitled.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/untitled.css",
       "AssetKind": "All",
@@ -201,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\untitled.css"
+      "OriginalItemSpec": "wwwroot/assets/css/untitled.css"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.eot",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/fonts/QhuertoRegular.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.eot",
       "AssetKind": "All",
@@ -218,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.eot"
+      "OriginalItemSpec": "wwwroot/assets/fonts/QhuertoRegular.eot"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.svg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/fonts/QhuertoRegular.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.svg",
       "AssetKind": "All",
@@ -235,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.svg"
+      "OriginalItemSpec": "wwwroot/assets/fonts/QhuertoRegular.svg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.ttf",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/fonts/QhuertoRegular.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.ttf",
       "AssetKind": "All",
@@ -252,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.ttf"
+      "OriginalItemSpec": "wwwroot/assets/fonts/QhuertoRegular.ttf"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/fonts/QhuertoRegular.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.woff",
       "AssetKind": "All",
@@ -269,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.woff"
+      "OriginalItemSpec": "wwwroot/assets/fonts/QhuertoRegular.woff"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\fonts\\QhuertoRegular.woff2",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/fonts/QhuertoRegular.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/QhuertoRegular.woff2",
       "AssetKind": "All",
@@ -286,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\QhuertoRegular.woff2"
+      "OriginalItemSpec": "wwwroot/assets/fonts/QhuertoRegular.woff2"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\gmaps.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/gmaps.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/gmaps.png",
       "AssetKind": "All",
@@ -303,13 +337,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\gmaps.png"
+      "OriginalItemSpec": "wwwroot/assets/gmaps.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/.DS_Store",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/.DS_Store"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Logo/logo.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Logo/logo.jpg",
       "AssetKind": "All",
@@ -320,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Logo\\logo.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Logo/logo.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Logo\\logo.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Logo/logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Logo/logo.png",
       "AssetKind": "All",
@@ -337,13 +388,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Logo\\logo.png"
+      "OriginalItemSpec": "wwwroot/assets/img/Logo/logo.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant1.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/.DS_Store",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/.DS_Store"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant1.jpg",
       "AssetKind": "All",
@@ -354,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant1.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant1.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant10.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant10.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant10.jpg",
       "AssetKind": "All",
@@ -371,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant10.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant10.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant11.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant11.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant11.jpg",
       "AssetKind": "All",
@@ -388,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant11.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant11.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant12.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant12.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant12.jpg",
       "AssetKind": "All",
@@ -405,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant12.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant12.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant13.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant13.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant13.jpg",
       "AssetKind": "All",
@@ -422,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant13.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant13.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant14.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant14.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant14.jpg",
       "AssetKind": "All",
@@ -439,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant14.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant14.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant15.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant15.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant15.jpg",
       "AssetKind": "All",
@@ -456,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant15.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant15.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant16.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant16.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant16.jpg",
       "AssetKind": "All",
@@ -473,13 +541,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant16.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant16.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant2.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant17.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant17.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant17.jpg"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant18.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant18.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant18.jpg"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant19.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant19.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant19.jpg"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant2.jpg",
       "AssetKind": "All",
@@ -490,13 +609,47 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant2.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant2.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant3.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant20.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant20.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant20.jpg"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant21.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/img/Models/contestant21.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant21.jpg"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant3.jpg",
       "AssetKind": "All",
@@ -507,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant3.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant3.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant4.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant4.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant4.jpg",
       "AssetKind": "All",
@@ -524,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant4.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant4.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant5.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant5.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant5.jpg",
       "AssetKind": "All",
@@ -541,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant5.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant5.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant6.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant6.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant6.jpg",
       "AssetKind": "All",
@@ -558,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant6.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant6.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant7.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant7.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant7.jpg",
       "AssetKind": "All",
@@ -575,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant7.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant7.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant8.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant8.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant8.jpg",
       "AssetKind": "All",
@@ -592,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant8.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant8.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Models\\contestant9.jpg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Models/contestant9.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Models/contestant9.jpg",
       "AssetKind": "All",
@@ -609,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Models\\contestant9.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/Models/contestant9.jpg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\1.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Ranking_Decoration/1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/1.png",
       "AssetKind": "All",
@@ -626,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\1.png"
+      "OriginalItemSpec": "wwwroot/assets/img/Ranking_Decoration/1.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\2.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Ranking_Decoration/2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/2.png",
       "AssetKind": "All",
@@ -643,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\2.png"
+      "OriginalItemSpec": "wwwroot/assets/img/Ranking_Decoration/2.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\img\\Ranking_Decoration\\3.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/img/Ranking_Decoration/3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/img/Ranking_Decoration/3.png",
       "AssetKind": "All",
@@ -660,30 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Ranking_Decoration\\3.png"
+      "OriginalItemSpec": "wwwroot/assets/img/Ranking_Decoration/3.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/IQA-removebg-preview.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/IQA.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\IQA.png"
-    },
-    {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\IQA-removebg-preview.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/IQA-removebg-preview.png",
       "AssetKind": "All",
@@ -694,13 +830,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\IQA-removebg-preview.png"
+      "OriginalItemSpec": "wwwroot/assets/IQA-removebg-preview.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\aos.min.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/IQA.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/IQA.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/IQA.png"
+    },
+    {
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/js/aos.min.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/aos.min.js",
       "AssetKind": "All",
@@ -711,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\aos.min.js"
+      "OriginalItemSpec": "wwwroot/assets/js/aos.min.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bold-and-dark.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/js/bold-and-dark.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/bold-and-dark.js",
       "AssetKind": "All",
@@ -728,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\bold-and-dark.js"
+      "OriginalItemSpec": "wwwroot/assets/js/bold-and-dark.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\js\\bs-init.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/js/bs-init.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/js/bs-init.js",
       "AssetKind": "All",
@@ -745,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\bs-init.js"
+      "OriginalItemSpec": "wwwroot/assets/js/bs-init.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\ConnieLim.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/ConnieLim.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/ConnieLim.jpeg",
       "AssetKind": "All",
@@ -762,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\ConnieLim.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/ConnieLim.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JennyShee.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/JennyShee.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/JennyShee.jpeg",
       "AssetKind": "All",
@@ -779,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\JennyShee.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/JennyShee.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\JuneLiaw.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/JuneLiaw.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/JuneLiaw.jpeg",
       "AssetKind": "All",
@@ -796,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\JuneLiaw.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/JuneLiaw.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\LiFen.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/LiFen.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/LiFen.jpeg",
       "AssetKind": "All",
@@ -813,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\LiFen.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/LiFen.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\MayaLee.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/MayaLee.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/MayaLee.jpeg",
       "AssetKind": "All",
@@ -830,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\MayaLee.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/MayaLee.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\models\\Sherena.jpeg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/models/Sherena.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/models/Sherena.jpeg",
       "AssetKind": "All",
@@ -847,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\models\\Sherena.jpeg"
+      "OriginalItemSpec": "wwwroot/assets/models/Sherena.jpeg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\qipaologo.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/qipaologo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/qipaologo.png",
       "AssetKind": "All",
@@ -864,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\qipaologo.png"
+      "OriginalItemSpec": "wwwroot/assets/qipaologo.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\user.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/user.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/user.png",
       "AssetKind": "All",
@@ -881,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\user.png"
+      "OriginalItemSpec": "wwwroot/assets/user.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\assets\\waze-here.png",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/assets/waze-here.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/waze-here.png",
       "AssetKind": "All",
@@ -898,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\waze-here.png"
+      "OriginalItemSpec": "wwwroot/assets/waze-here.png"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\favicon.ico",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -915,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\index.html",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -932,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\main.b879c1501b0f8a60.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/main.b879c1501b0f8a60.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "main.b879c1501b0f8a60.js",
       "AssetKind": "All",
@@ -949,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.b879c1501b0f8a60.js"
+      "OriginalItemSpec": "wwwroot/main.b879c1501b0f8a60.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\polyfills.84def97d290f7599.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/polyfills.84def97d290f7599.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.84def97d290f7599.js",
       "AssetKind": "All",
@@ -966,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\polyfills.84def97d290f7599.js"
+      "OriginalItemSpec": "wwwroot/polyfills.84def97d290f7599.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.4b50d34204c6adfc.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.4b50d34204c6adfc.woff2",
       "AssetKind": "All",
@@ -983,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\QhuertoRegular.4b50d34204c6adfc.woff2"
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.4b50d34204c6adfc.woff2"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.611e06ef4462ccf6.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.611e06ef4462ccf6.eot",
       "AssetKind": "All",
@@ -1000,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\QhuertoRegular.611e06ef4462ccf6.eot"
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.611e06ef4462ccf6.eot"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.656b1bd375b92818.svg",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.656b1bd375b92818.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.656b1bd375b92818.svg",
       "AssetKind": "All",
@@ -1017,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\QhuertoRegular.656b1bd375b92818.svg"
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.656b1bd375b92818.svg"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.95e8cc8d75f7906e.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.95e8cc8d75f7906e.woff",
       "AssetKind": "All",
@@ -1034,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\QhuertoRegular.95e8cc8d75f7906e.woff"
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.95e8cc8d75f7906e.woff"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\QhuertoRegular.9dd304717487572f.ttf",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/QhuertoRegular.9dd304717487572f.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "QhuertoRegular.9dd304717487572f.ttf",
       "AssetKind": "All",
@@ -1051,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\QhuertoRegular.9dd304717487572f.ttf"
+      "OriginalItemSpec": "wwwroot/QhuertoRegular.9dd304717487572f.ttf"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\runtime.cddff2dbcd364961.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/runtime.cddff2dbcd364961.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "runtime.cddff2dbcd364961.js",
       "AssetKind": "All",
@@ -1068,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\runtime.cddff2dbcd364961.js"
+      "OriginalItemSpec": "wwwroot/runtime.cddff2dbcd364961.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\scripts.7720c670e7825879.js",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/scripts.7720c670e7825879.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "scripts.7720c670e7825879.js",
       "AssetKind": "All",
@@ -1085,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scripts.7720c670e7825879.js"
+      "OriginalItemSpec": "wwwroot/scripts.7720c670e7825879.js"
     },
     {
-      "Identity": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\styles.39bfa76c635b762b.css",
+      "Identity": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/styles.39bfa76c635b762b.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\latest beauty\\BeautyContestCD\\wwwroot\\",
+      "ContentRoot": "/Volumes/Projects/BeautyContest/September/BeautyContestCD/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "styles.39bfa76c635b762b.css",
       "AssetKind": "All",
@@ -1102,7 +1255,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles.39bfa76c635b762b.css"
+      "OriginalItemSpec": "wwwroot/styles.39bfa76c635b762b.css"
     }
   ]
 }
