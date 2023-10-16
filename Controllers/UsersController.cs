@@ -1,3 +1,4 @@
+using API.Data;
 using API.DTOs;
 using API.Entities;
 using API.Extensions;
@@ -53,15 +54,23 @@ public class UsersController : BaseApiController
     [HttpPut]
     public async Task<ActionResult> UpdateUser(MemberUpdateDto memberUpdateDto)
     {
-        var user = await _uow.UserRepository.GetUserByUsernameAsync(User.GetUsername());
+        var user = await _uow.UserRepository.GetUserByUsernameAsync(memberUpdateDto.UserName);
 
-        if (user == null) { return NotFound(); }
+        //if (user == null) { return NotFound(); }
 
-        _mapper.Map(memberUpdateDto, user);
+        //_mapper.Map(memberUpdateDto, user);
 
-        if (await _uow.Complete()) { return NoContent(); }
+        //if (await _uow.Complete()) { return NoContent(); }
 
-        return BadRequest("Failed to update user");
+        //return BadRequest("Failed to update user");
+
+        user.Vote = memberUpdateDto.Vote;
+
+        _uow.UserRepository.Update(user);
+
+        await _uow.UserRepository.SaveAllAsync();
+
+        return NoContent();
     }
 
     [HttpPost("add-photo")]

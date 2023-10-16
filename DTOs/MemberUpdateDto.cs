@@ -10,5 +10,7 @@ namespace API.DTOs
         public int Ranking { get; set; }
         public int Vote { get; set; }
         public string KnownAs {get; set; }
+        public string UserName { get; set; }
+
     }
 }
